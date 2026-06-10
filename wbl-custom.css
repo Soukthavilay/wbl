@@ -559,10 +559,17 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 .wbl-strip-row .vc_column-inner { padding: 0 !important; }
 .wbl-strip-row .wpb_content_element { margin: 0; }
 
-/* --- Equal-height card columns --- */
-.wbl-equal .vc_column-inner > .wpb_wrapper, .wbl-equal .wpb_text_column { height: 100%; }
-.wbl-equal .vc_column-inner { height: 100%; }
-.wbl-equal .panel, .wbl-equal .byc, .wbl-equal .field-card, .wbl-equal .cost-card { height: 100%; }
+/* --- Equal-height card columns ---
+   Cột WPBakery là float nên height:100% không ăn — phải ép flex cả chuỗi:
+   row → column → column-inner → wrapper → card */
+.wbl-equal { display: flex; flex-wrap: wrap; }
+.wbl-equal > .wpb_column { display: flex; float: none; }
+.wbl-equal .vc_column-inner { display: flex; width: 100%; height: auto; }
+.wbl-equal .vc_column-inner > .wpb_wrapper { display: flex; flex-direction: column; width: 100%; }
+.wbl-equal .wpb_text_column.panel, .wbl-equal .wpb_text_column.byc,
+.wbl-equal .wpb_text_column.field-card, .wbl-equal .wpb_text_column.cost-card,
+.wbl-equal .wpb_text_column.ent-benefits-col { flex: 1; }
+.wbl-equal .panel, .wbl-equal .byc, .wbl-equal .field-card, .wbl-equal .cost-card { height: auto; }
 .wbl-cards .vc_column-inner { padding-left: 9px; padding-right: 9px; }
 .wbl-cards { margin-top: 28px !important; }
 
