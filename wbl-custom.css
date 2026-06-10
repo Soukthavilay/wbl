@@ -681,6 +681,18 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 .section .pcard { min-height: 420px; margin-bottom: 0; }
 .pcard .arr { font-size: 20px; }
 
+/* Khe giữa 2 portal card (cột WPBakery mặc định không có gutter) */
+.wbl-portals .wbl-equal { display: flex; flex-wrap: wrap;
+  margin-left: -12px !important; margin-right: -12px !important; }
+.wbl-portals .wbl-equal > .wpb_column { float: none; padding: 12px;
+  background: none !important; }
+
+/* Bo góc đồng bộ mọi lớp của card (ảnh nền, màu nền, overlay, nội dung) */
+.pcard-col, .pcard-col .vc_column-inner, .pcard-col .vc_column-inner > .wpb_wrapper {
+  border-radius: 26px !important; }
+.pcard-col .vc_column-inner { overflow: hidden !important; }
+.pcard-col .vc_column-inner::after { border-radius: 26px; }
+
 /* Portal card = cột WPBakery, ảnh chọn qua: Edit cột → Design Options → Background image */
 .pcard-col .vc_column-inner {
   position: relative; border-radius: 26px; overflow: hidden; isolation: isolate;
@@ -709,6 +721,13 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 .pcard-col.ent .go .arr { background: #fff; color: var(--blue-800); }
 .pcard-col .vc_column-inner:hover .go .arr { transform: translateX(5px); }
 .pcard-col .card-link { position: absolute; inset: 0; z-index: 2; }
+/* Hàng chips trong portal card */
+.pcard-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.pcard-chips span { padding: 7px 13px; border-radius: 999px;
+  background: rgba(0,0,0,.35); -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,.25);
+  font-family: var(--font-mono); font-size: 12.5px; font-weight: 600;
+  letter-spacing: .04em; color: #fff; }
 
 /* --- Youth --- */
 .wbl-mt-80 { margin-top: 80px !important; display: block; }
@@ -867,9 +886,9 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 /* Quote nhấn trong Problem (inline #FFB020 trong content) */
 .problem blockquote span[style*="FFB020"], .problem .door{color:var(--amber)!important}
 
-/* Portal cards: gradient theo navy/gold mới */
-.pcard-col.ent .vc_column-inner::after{background:linear-gradient(180deg,rgba(19,50,91,.2) 0%,rgba(19,50,91,.35) 40%,rgba(10,26,48,.95) 100%)}
-.pcard-col.youth .vc_column-inner::after{background:linear-gradient(180deg,rgba(201,138,27,.12) 0%,rgba(20,23,28,.2) 38%,rgba(110,72,10,.92) 100%)}
+/* Portal cards: gradient đậm hơn để chữ luôn đọc được trên ảnh sáng */
+.pcard-col.ent .vc_column-inner::after{background:linear-gradient(180deg,rgba(10,26,48,.15) 0%,rgba(10,26,48,.45) 42%,rgba(8,20,38,.96) 100%)}
+.pcard-col.youth .vc_column-inner::after{background:linear-gradient(180deg,rgba(20,23,28,.08) 0%,rgba(20,23,28,.3) 40%,rgba(60,38,5,.94) 100%)}
 
 /* Donut legend (đè inline style): hàng 1 = đỏ (chương trình), hàng 2 = steel blue */
 .cost-legend .row:nth-child(1) .sw{background:var(--red-600)!important}

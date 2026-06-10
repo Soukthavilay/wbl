@@ -129,22 +129,22 @@
 
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="portals" el_class="section wbl-portals"][vc_column pix_background_effect=""][vc_column_text el_class="portals-intro"]
 <span class="eyebrow" style="color: #1a4dd8;">ເລືອກເສັ້ນທາງຂອງທ່ານ · Choose your path</span>
-<h2 class="h-xl lao-display">WBL ເຮັດວຽກໄດ້ສຳລັບທັງສອງຝ່າຍ</h2>
-<p class="lead">ບໍ່ວ່າທ່ານຈະເປັນໄວໜຸ່ມທີ່ກຳລັງຊອກຫາເສັ້ນທາງອາຊີບ ຫຼື ວິສາຫະກິດທີ່ຕ້ອງການແຮງງານທີ່ມີທັກສະ — ເລີ່ມຕົ້ນຢູ່ບ່ອນນີ້.</p>
+<h2 class="h-xl lao-display">WBL ຊ່ວຍທ່ານຄືແນວໃດ?</h2>
+<p class="lead">ທ່ານແມ່ນໃຜ? ເລືອກໜຶ່ງດ້ານລຸ່ມນີ້ ເພື່ອເຂົ້າສູ່ໜ້າສະເພາະ — ມີຂໍ້ມູນ, ສິດທິປະໂຫຍດ ແລະ ແບບຟອມສະໝັກ ທີ່ອອກແບບໄວ້ສຳລັບທ່ານໂດຍສະເພາະ!</p>
 [/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner el_class="pcard-col youth" width="1/2" pix_background_effect=""][vc_column_text]
-<span class="ptag">ສຳລັບໄວໜຸ່ມ · Youth</span>
-<h3 class="lao-display">ຮຽນວິຊາຊີບ ໄດ້ເງິນອຸດໜູນ ແລະ ໃບຮັບຮອງ</h3>
-7 ສາຂາອາຊີບ · ຝຶກໃນສະຖານປະກອບການຈິງ · ໄດ້ວຽກໄວ
-
-<span class="go">ເບິ່ງສາຂາ &amp; ສະໝັກ <span class="arr">→</span></span>
-
+<span class="ptag">ສຳລັບໄວໜຸ່ມ · YOUTH</span>
+<h3 class="lao-display">ຮຽນວິຊາຊີບ ໄດ້ເງິນອຸດໜູນ ແລະ ໃບຮັບຮອງ!</h3>
+<p>7 ສາຂາອາຊີບ · ຝຶກໃນສະຖານປະກອບການຈິງ · ໄດ້ວຽກໄວ</p>
+<div class="pcard-chips"><span>7 ສາຂາອາຊີບ</span><span>ເງິນອຸດໜູນ $400</span><span>ໃບຮັບຮອງ</span></div>
+<span class="go">ເຂົ້າສູ່ໜ້າໄວໜຸ່ມ <span class="arr">→</span></span>
+<a class="card-link" href="#youth" aria-label="Youth portal"></a>
 [/vc_column_text][/vc_column_inner][vc_column_inner el_class="pcard-col ent" width="1/2" pix_background_effect=""][vc_column_text]
-<span class="ptag">ສຳລັບວິສາຫະກິດ · Enterprise</span>
-<h3 class="lao-display">ສ້າງແຮງງານທີ່ມີທັກສະ ໂດຍລົງທຶນຮ່ວມ</h3>
-Co-Investment Model · ຫຼຸດການລາອອກ · ທັກສະຖືກກັບວຽກ 100%
-
-<span class="go">ເບິ່ງໂມເດລ &amp; ສະແດງຄວາມສົນໃຈ <span class="arr">→</span></span>
-
+<span class="ptag">ສຳລັບວິສາຫະກິດ · ENTERPRISE</span>
+<h3 class="lao-display">ສ້າງແຮງງານທີ່ມີທັກສະ ໂດຍລົງທຶນຮ່ວມ — ບໍ່ແມ່ນຄ່າໃຊ້ຈ່າຍໃໝ່!</h3>
+<p>Co-Investment Model · ຫຼຸດການລາອອກ · ທັກສະຖືກກັບວຽກ 100%</p>
+<div class="pcard-chips"><span>CO-INVESTMENT</span><span>ທັກສະ 100%</span><span>ຫຼຸດການລາອອກ</span></div>
+<span class="go">ເຂົ້າສູ່ໜ້າວິສາຫະກິດ <span class="arr">→</span></span>
+<a class="card-link" href="#enterprise" aria-label="Enterprise portal"></a>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="youth" el_class="section youth"][vc_column pix_background_effect=""][vc_custom_heading text="Youth Portal · ສຳລັບໄວໜຸ່ມ" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="7 ສາຂາອາຊີບ ທີ່ເປີດຮັບສະໝັກ" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="sec-head"]
