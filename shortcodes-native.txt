@@ -1,0 +1,312 @@
+[vc_row full_width="stretch_row" full_height="yes" content_placement="bottom" pix_particles_check="" pix_overlay_color="custom" pix_overlay_over="true" pix_overlay_custom_color="#0A1F508F" pix_background_effect="" el_id="hero" el_class="wbl-hero-row" css=".vc_custom_1781075927650{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-9.16.46-AM.png?id=20) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}"][vc_column pix_background_effect=""][vc_column_text el_class="wbl-hero-head"]
+<span class="hero-kicker eyebrow"> ສະພາການຄ້າ ແລະ ອຸດສາຫະກຳແຫ່ງຊາດລາວ · ໂຄງການ ASTI</span>
+<h1 class="h-xxl lao-display">ປ່ຽນການສ້າງຝີມືແຮງງານ
+ສູ່ການເຕີບໂຕທາງທຸລະກິດ ດ້ວຍ <span class="wbl-word">WBL</span></h1>
+<p class="hero-sub">ການຮຽນວິຊາຊີບໃນສະຖານປະກອບການ — ສ້າງຄົນຜ່ານການເຮັດວຽກຕົວຈິງ ພ້ອມເຮັດວຽກໄດ້ຕັ້ງແຕ່ມື້ທຳອິດ. ນີ້ຄືກຸນແຈສຳຄັນໃນການຮັກສາບຸກຄະລາກອນ.</p>
+[/vc_column_text][vc_column_text]
+<div class="hero-cta"><a class="btn btn-amber btn-lg" href="#youth">ຂ້ອຍແມ່ນໄວໜຸ່ມ →</a> <a class="btn btn-ghost btn-lg" href="#enterprise">ຂ້ອຍແມ່ນວິສາຫະກິດ →</a></div>
+<div class="hero-foot">
+<div class="stat"><b class="mono"><span data-count="75" data-suffix="%">0%</span></b>ຮຽນຢູ່ສະຖານປະກອບການ</div>
+<div class="stat"><b class="mono"><span data-count="6">0</span> ເດືອນ</b>ໄລຍະການຝຶກອົບຮົມ</div>
+<div class="stat"><b class="mono"><span data-count="7">0</span></b>ສາຂາອາຊີບເປີດຮັບ</div>
+<div class="stat"><b class="mono">1981</b>Swiss Model ຕົ້ນກຳເນີດ</div>
+</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" css=".vc_custom_1781076592450{background-color: #15171C !important;}"][vc_column pix_background_effect=""][vc_column_text css=""][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" gap="10" pix_particles_check="" pix_background_effect="" el_class="strip wbl-strip-row"][vc_column content_align="text-center" pix_background_effect=""][vc_column_text]
+<div class="track">ການກໍ່ສ້າງຊ່າງໄຟຟ້າເຄື່ອງປັບອາກາດຍານຍົນ &amp; EVກົນຈັກ &amp; ເຄື່ອງມືຈັກກົນການຜະລິດສາງສິນຄ້າຂາຍຍ່ອຍ &amp; ບໍລິການລູກຄ້າການກໍ່ສ້າງຊ່າງໄຟຟ້າເຄື່ອງປັບອາກາດຍານຍົນ &amp; EVກົນຈັກ &amp; ເຄື່ອງມືຈັກກົນການຜະລິດສາງສິນຄ້າຂາຍຍ່ອຍ &amp; ບໍລິການລູກຄ້າ</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" css=".vc_custom_1781076627318{background-color: #15171C !important;}"][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="about" el_class="section wbl-about"][vc_column pix_background_effect=""][vc_custom_heading text="Work-Based Learning ແມ່ນຫຍັງ?" font_container="tag:div|text_align:left|color:%231A4DD8" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_column_text el_class="sec-head"]
+<h2 class="h-xl lao-display">ບໍ່ແມ່ນໂຄງການ <span style="color: #6a7180;">‘ຝຶກງານ’</span> —
+ແຕ່ເປັນກົນລະຍຸດສ້າງບຸກຄະລາກອນ</h2>
+<p class="lead">WBL ແມ່ນການຮຽນຮູ້ຜ່ານການປະຕິບັດຈິງ ທີ່ <b>ອອກແບບຮ່ວມກັນ</b> ໂດຍສະຖານປະກອບການ ແລະ ສະຖານອາຊີວະສຶກສາ ເພື່ອສ້າງທັກສະທີ່ພ້ອມເຮັດວຽກ. ນັບຕັ້ງແຕ່ປີ 1981 ໂມເດລນີ້ໄດ້ຊ່ວຍໃຫ້ສະວິດເຊີແລນກາຍເປັນໜຶ່ງໃນປະເທດທີ່ມີນະວັດຕະກຳສູງທີ່ສຸດໃນໂລກ.</p>
+[/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="panel no"]
+<h3 class="h-m"><span class="tag">WBL ບໍ່ແມ່ນ</span></h3>
+<ul>
+ 	<li><span class="ic">✕</span>ບໍ່ແມ່ນ CSR ຫຼື ກິດຈະກຳເພື່ອສັງຄົມ</li>
+ 	<li><span class="ic">✕</span>ບໍ່ແມ່ນພຽງການສັງເກດການ ທີ່ຜູ້ຝຶກພຽງເບິ່ງ ແລະ ໝາຍ</li>
+ 	<li><span class="ic">✕</span>ບໍ່ແມ່ນພຽງການຝຶກອົບຮົມໄລຍະສັ້ນທົ່ວໄປ</li>
+ 	<li><span class="ic">✕</span>ບໍ່ແມ່ນ ‘ຝຶກງານ’ ເສີມ ທີ່ແຍກອອກຈາກວຽກຈິງ</li>
+ 	<li><span class="ic">✕</span>ບໍ່ແມ່ນຫຼັກສູດໃນໂຮງຮຽນ ທີ່ຕັດຂາດຈາກການດຳເນີນງານຂອງທ່ານ</li>
+</ul>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="panel yes"]
+<h3 class="h-m"><span class="tag">WBL ແມ່ນ</span></h3>
+<ul>
+ 	<li><span class="ic">✓</span>ການຮຽນຮູ້ຜ່ານການປະຕິບັດຈິງ ໃນໜ້າວຽກຕົວຈິງ</li>
+ 	<li><span class="ic">✓</span>ອອກແບບຫຼັກສູດ <b>ຮ່ວມກັນ</b> ໂດຍນາຍຈ້າງ ແລະ ສະຖານອາຊີວະສຶກສາ</li>
+ 	<li><span class="ic">✓</span>ຂັບເຄື່ອນໂດຍນາຍຈ້າງ ຕາມຄວາມຕ້ອງການແຮງງານຈິງ</li>
+ 	<li><span class="ic">✓</span>ກົນລະຍຸດຫຼັກ ໃນການສ້າງບຸກຄະລາກອນທີ່ມີຄຸນນະພາບ</li>
+ 	<li><span class="ic">✓</span>ທັກສະທີ່ພ້ອມເຮັດວຽກໄດ້ ຕັ້ງແຕ່ມື້ທຳອິດ</li>
+</ul>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="stat-trio" el_id="statTrio"][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fas fa-industry" color="custom" custom_color="#FFB020" el_class="sc-ico"][vc_column_text el_class="sc"]
+<span class="sc-eyebrow">Work-Based · ຮຽນໃນສະຖານທີ່</span>
+<div class="sc-num"><span data-count="75">0</span><span class="unit">%</span></div>
+<div class="sc-label">ຮຽນຮູ້ໃນສະຖານປະກອບການ</div>
+<p class="sc-desc">ໜ້າວຽກຈິງ, ອຸປະກອນຈິງ, ກ່ຽວຂ້ອງກັບການດຳເນີນງານຂອງທ່ານ</p>
+
+<div class="sc-bar-wrap">
+<div class="sc-bar" style="background: #FFB020;" data-w="75%"></div>
+</div>
+<span class="sc-tag" style="background:rgba(255,176,32,.14);color:#FFB020">On-the-job training</span>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fas fa-layer-group" color="custom" custom_color="#2E63EE" el_class="sc-ico"][vc_column_text el_class="sc"]
+<span class="sc-eyebrow">Theory · ຮຽນທິດສະດີ</span>
+<div class="sc-num"><span data-count="25">0</span><span class="unit">%</span></div>
+<div class="sc-label">ຮຽນທິດສະດີຢູ່ໂຮງຮຽນ</div>
+<p class="sc-desc">ພື້ນຖານຄວາມຮູ້ ແລະ ທິດສະດີທີ່ເຊື່ອມໂຍງກັບໜ້າວຽກຈິງ</p>
+
+<div class="sc-bar-wrap">
+<div class="sc-bar" style="background: #2E63EE;" data-w="25%"></div>
+</div>
+<span class="sc-tag" style="background:rgba(46,99,238,.18);color:#7BA7FF">Classroom theory</span>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="far fa-calendar-alt" color="custom" custom_color="#0F8A5F" el_class="sc-ico"][vc_column_text el_class="sc"]
+<span class="sc-eyebrow">Duration · ໄລຍະເວລາ</span>
+<div class="sc-num"><span data-count="6">0</span><span class="unit"> ເດືອນ</span></div>
+<div class="sc-label">ໄລຍະການຝຶກອົບຮົມ WBL</div>
+<p class="sc-desc">ໂຄງສ້າງ 6 ເດືອນ ທີ່ຄຸ້ມຄ່າ ສ້າງທັກສະທີ່ຍືນຍົງ ຢ່າງມີລະບົບ</p>
+
+<div class="sc-bar-wrap">
+<div class="sc-bar" style="background: #0F8A5F;" data-w="100%"></div>
+</div>
+<span class="sc-tag" style="background:rgba(15,138,95,.18);color:#3DBA8A">Structured programme</span>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="problem" el_class="section problem"][vc_column pix_background_effect=""][vc_custom_heading text="ວິກິດການດ້ານທັກສະ · The Skills Crisis" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="ສິ່ງທ້າທາຍທີ່ສະຖານປະກອບການ ກຳລັງປະເຊີນ" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_row_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-list"]
+<div class="prob-item">
+
+<span class="n mono">01</span>ການຈ້າງງານໂດຍອີງໃສ່ແຮງງານທີ່ມີຢູ່ ບໍ່ແມ່ນທັກສະທີ່ຕ້ອງການ
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">02</span>ຮອບການປະຖົມນິເທດ ແລະ ການຝຶກອົບຮົມຄືນໃໝ່ ທີ່ຍາວນານ
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">03</span>ອັດຕາການລາອອກ ໃນໄລຍະເລີ່ມຕົ້ນ ທີ່ສູງ
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">04</span>ຜູ້ຄຸມງານ ມີພາລະໜັກເກີນໄປ ກັບການຝຶກອົບຮົມແບບບໍ່ເປັນທາງການ
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">05</span>ຜົນຜະລິດຕ່ຳ ຍ້ອນຄວາມບໍ່ສອດຄ່ອງຂອງທັກສະ
+
+</div>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-quote"]
+<blockquote>“ນັ້ນແມ່ນກຳໄລ ທີ່ກຳລັງ<span class="door">ຍ່າງອອກໄປທາງປະຕູ.”</span></blockquote>
+<div class="by">ແຫຼ່ງທີ່ມາ · EuroCham–SDC Skills Gap Assessment 2024</div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="cycle" el_class="section cycle"][vc_column pix_background_effect=""][vc_custom_heading text="The WBL Cycle · ວົງຈອນການເຮັດວຽກ" font_container="tag:div|text_align:left|color:%231A4DD8" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="5 ຂັ້ນຕອນ ຈາກຄວາມຕ້ອງການ ສູ່ການຈ້າງງານ" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_row_inner el_class="wbl-cycle-row" el_id="wbl-cycle"][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">1</div>
+<h4>ລະບຸຄວາມຕ້ອງການ</h4>
+ນາຍຈ້າງລະບຸທັກສະ ແລະ ໜ້າວຽກ ທີ່ຕ້ອງການແທ້ຈິງ.
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">2</div>
+<h4>ອອກແບບຮ່ວມກັນ</h4>
+ຮ່ວມພັດທະນາມາດຕະຖານ ແລະ ຫຼັກສູດ ກັບສະຖານອາຊີວະສຶກສາ.
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">3</div>
+<h4>ຈັບຄູ່ &amp; ຝຶກຄູຝຶກ</h4>
+ຈັບຄູ່ນັກຮຽນກັບໜ້າວຽກ ແລະ ຝຶກຜູ້ຄຸມງານ ໃຫ້ເປັນຄູຝຶກປະຈຳ.
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">4</div>
+<h4>ຝຶກແບບ WBL</h4>
+ຝຶກອົບຮົມ 6 ເດືອນ — 75% ໜ້າວຽກຈິງ / 25% ທິດສະດີ.
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">5</div>
+<h4>ປະເມີນ &amp; ຈ້າງງານ</h4>
+ຢືນຢັນ, ຮັບຮອງຄວາມສາມາດ ແລະ ກ້າວສູ່ການຈ້າງງານ.
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="portals" el_class="section wbl-portals"][vc_column pix_background_effect=""][vc_column_text el_class="portals-intro"]
+<span class="eyebrow" style="color: #1a4dd8;">ເລືອກເສັ້ນທາງຂອງທ່ານ · Choose your path</span>
+<h2 class="h-xl lao-display">WBL ເຮັດວຽກໄດ້ສຳລັບທັງສອງຝ່າຍ</h2>
+<p class="lead">ບໍ່ວ່າທ່ານຈະເປັນໄວໜຸ່ມທີ່ກຳລັງຊອກຫາເສັ້ນທາງອາຊີບ ຫຼື ວິສາຫະກິດທີ່ຕ້ອງການແຮງງານທີ່ມີທັກສະ — ເລີ່ມຕົ້ນຢູ່ບ່ອນນີ້.</p>
+[/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner el_class="pcard-col youth" width="1/2" pix_background_effect=""][vc_column_text]
+<span class="ptag">ສຳລັບໄວໜຸ່ມ · Youth</span>
+<h3 class="lao-display">ຮຽນວິຊາຊີບ ໄດ້ເງິນອຸດໜູນ ແລະ ໃບຮັບຮອງ</h3>
+7 ສາຂາອາຊີບ · ຝຶກໃນສະຖານປະກອບການຈິງ · ໄດ້ວຽກໄວ
+
+<span class="go">ເບິ່ງສາຂາ &amp; ສະໝັກ <span class="arr">→</span></span>
+
+[/vc_column_text][/vc_column_inner][vc_column_inner el_class="pcard-col ent" width="1/2" pix_background_effect=""][vc_column_text]
+<span class="ptag">ສຳລັບວິສາຫະກິດ · Enterprise</span>
+<h3 class="lao-display">ສ້າງແຮງງານທີ່ມີທັກສະ ໂດຍລົງທຶນຮ່ວມ</h3>
+Co-Investment Model · ຫຼຸດການລາອອກ · ທັກສະຖືກກັບວຽກ 100%
+
+<span class="go">ເບິ່ງໂມເດລ &amp; ສະແດງຄວາມສົນໃຈ <span class="arr">→</span></span>
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="youth" el_class="section youth"][vc_column pix_background_effect=""][vc_custom_heading text="Youth Portal · ສຳລັບໄວໜຸ່ມ" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="7 ສາຂາອາຊີບ ທີ່ເປີດຮັບສະໝັກ" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="sec-head"]
+<p class="lead">ເລືອກສາຂາທີ່ເຈົ້າສົນໃຈ ແລ້ວຝຶກໃນສະຖານປະກອບການຈິງ ພ້ອມຮັບເງິນອຸດໜູນ ແລະ ໃບຮັບຮອງຄວາມສາມາດ.</p>
+[/vc_column_text][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">01</div>
+<h4>ການກໍ່ສ້າງ</h4>
+ໂຄງສ້າງ, ການກໍ່ສ້າງອາຄານ ແລະ ວຽກພື້ນຖານ
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">02</div>
+<h4>ຊ່າງໄຟຟ້າ &amp; ເຄື່ອງປັບອາກາດ</h4>
+ລະບົບໄຟຟ້າ, ການຕິດຕັ້ງ ແລະ ສ້ອມແປງແອ
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">03</div>
+<h4>ຍານຍົນ &amp; ລົດ EV</h4>
+ສ້ອມແປງເຄື່ອງຍົນ ແລະ ເທັກໂນໂລຊີລົດໄຟຟ້າ
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">04</div>
+<h4>ກົນຈັກ &amp; ເຄື່ອງມືຈັກກົນ</h4>
+ກົນຈັກພື້ນຖານ ແລະ ການນຳໃຊ້ເຄື່ອງມືຈັກກົນ
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">05</div>
+<h4>ການຜະລິດ</h4>
+ສາຍການຜະລິດ ແລະ ການຄວບຄຸມຄຸນນະພາບ
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">06</div>
+<h4>ສາງສິນຄ້າ &amp; ຄວບຄຸມສະຕັອກ</h4>
+ການຈັດການສາງ ແລະ ການຄວບຄຸມສິນຄ້າຄົງຄັງ
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">07</div>
+<h4>ຂາຍຍ່ອຍ &amp; ບໍລິການລູກຄ້າ</h4>
+ການຂາຍ, ການບໍລິການ ແລະ ປະສົບການລູກຄ້າ
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card span2"]
+<h4>ບໍ່ແນ່ໃຈວ່າສາຂາໃດເໝາະກັບເຈົ້າ?</h4>
+ສະໝັກໄວ້ກ່ອນ — ທີມງານ ສຄອຊ ຈະຊ່ວຍແນະນຳສາຂາທີ່ເໝາະສົມ.
+
+<a class="btn btn-amber" href="#apply">ປຶກສາ &amp; ສະໝັກ →</a>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_custom_heading text="ເປັນຫຍັງຕ້ອງ WBL" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow wbl-mt-80"][vc_custom_heading text="ສິ່ງທີ່ເຈົ້າຈະໄດ້ຮັບ" use_theme_fonts="yes" el_class="h-l lao-display"][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<div class="bnum mono">$400</div>
+<h4>ເງິນອຸດໜູນ</h4>
+ສຳລັບໄລຍະການຝຶກ 4 ເດືອນ ໃນສະຖານປະກອບການ
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<div class="bnum mono">100%</div>
+<h4>ທັກສະຖືກກັບວຽກ</h4>
+ຝຶກໃນໜ້າວຽກຈິງ ບໍ່ແມ່ນພຽງທິດສະດີ
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<div class="bnum mono">✓</div>
+<h4>ໃບຮັບຮອງ</h4>
+ໃບຮັບຮອງຄວາມສາມາດທີ່ນາຍຈ້າງຍອມຮັບ
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<div class="bnum mono">→</div>
+<h4>ໂອກາດໄດ້ວຽກ</h4>
+ຈັບຄູ່ໂດຍກົງກັບສະຖານປະກອບການ
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="enterprise" el_class="section ent"][vc_column pix_background_effect=""][vc_custom_heading text="Enterprise Portal · ສຳລັບວິສາຫະກິດ" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="Co-Investment Model: ການລົງທຶນຮ່ວມ ທີ່ຄຸ້ມຄ່າ" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="wbl-lead-dark"]
+<p class="lead">ສ່ວນໃຫຍ່ຂອງການລົງທຶນ ແມ່ນເຄື່ອງມື ແລະ ສະຖານທີ່ ທີ່ທ່ານໃຊ້ຢູ່ແລ້ວ — ບໍ່ແມ່ນຄ່າໃຊ້ຈ່າຍໃໝ່.</p>
+[/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="cost-card"]
+<div class="cost-total"><span class="cur">USD</span><b class="mono"><span data-count="1920" data-prefix="$">$0</span></b><span style="color: rgba(255,255,255,.7);">ຄ່າໃຊ້ຈ່າຍທັງໝົດ / ນັກຮຽນ</span></div>
+<div class="donut-wrap">
+<div id="donut" class="donut" data-p="48">
+<div class="mid"><b class="mono">~48%</b>ໂຄງການຮັບຜິດຊອບ</div>
+</div>
+<div class="cost-legend">
+<div class="row">
+
+&nbsp;
+<div>
+
+<b>USD 920</b>ໂຄງການ ASTI ຮັບຜິດຊອບ — ການຝຶກນອກສະຖານທີ່, ອອກແບບຫຼັກສູດ &amp; ສື່, ການປະເມີນ &amp; ຮັບຮອງ
+
+</div>
+</div>
+<div class="row">
+
+&nbsp;
+<div>
+
+<b>~USD 1,000</b>ການລົງທຶນຂອງທ່ານ — ເງິນອຸດໜູນນັກຮຽນ &amp; ຜູ້ຄຸມງານ ພ້ອມເຄື່ອງມືທີ່ມີຢູ່ແລ້ວ
+
+</div>
+</div>
+</div>
+</div>
+<div class="cost-lines">
+<div class="li">ເງິນອຸດໜູນສຳລັບນັກຮຽນ (4 ເດືອນ)<b>$400</b></div>
+<div class="li">ເງິນອຸດໜູນສຳລັບຜູ້ຄຸມງານ (4 ເດືອນ)<b>$400</b></div>
+<div class="li">ເຄື່ອງມື, ອຸປະກອນ &amp; ສະຖານທີ່<span class="free">ເປັນຂອງທ່ານຢູ່ແລ້ວ</span></div>
+</div>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="ent-benefits-col"]
+<div class="ent-benefits">
+<div class="ebc">
+<div class="ic">✓</div>
+<div>
+<h4>ທັກສະຖືກກັບວຽກ 100%</h4>
+ບໍ່ມີຄວາມບໍ່ສອດຄ່ອງຂອງທັກສະ ເມື່ອຈ້າງງານ
+
+</div>
+</div>
+<div class="ebc">
+<div class="ic">★</div>
+<div>
+<h4>ຄວາມຮູ້ຢູ່ກັບທ່ານ</h4>
+ຜູ້ຄຸມງານໄດ້ຮັບການຢັ້ງຢືນເປັນຄູຝຶກປະຈຳ
+
+</div>
+</div>
+<div class="ebc">
+<div class="ic">🛡</div>
+<div>
+<h4>ຄວາມສາມາດຖືກຮັບຮອງ</h4>
+ປະເມີນຮ່ວມກັນ ເປັນຫຼັກຖານທີ່ເຊື່ອຖືໄດ້
+
+</div>
+</div>
+<div class="ebc">
+<div class="ic">↗</div>
+<div>
+<h4>ຫຼຸດການລາອອກ</h4>
+ນັກຮຽນຝັງຕົວໃນວຽກທີ່ມີຜົນຜະລິດ ນັບແຕ່ອາທິດທຳອິດ
+
+</div>
+</div>
+</div>
+<div class="wbl-cta-row"><a class="btn btn-amber btn-lg" href="#apply">ສະແດງຄວາມສົນໃຈ (EOI) →</a> <a class="btn btn-ghost btn-lg" href="#cycle">ເບິ່ງວົງຈອນ WBL</a></div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="proof" el_class="section proof"][vc_column pix_background_effect=""][vc_custom_heading text="ໂມເດລທີ່ພິສູດແລ້ວ · Proven Model" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="ດັດຊະນີຄວາມສາມາດໃນການແຂ່ງຂັນ ດ້ານພອນສະຫວັນໂລກ (GTCI) 2025" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="wbl-lead-dark"]
+<p class="lead">ປະເທດທີ່ນຳໃຊ້ການຮຽນຮູ້ໃນສະຖານປະກອບການ ຄອງອັນດັບສູງສຸດຂອງໂລກ. WBL ຄືເສັ້ນທາງທີ່ຈະຍົກລະດັບແຮງງານລາວ.</p>
+[/vc_column_text][vc_column_text]
+<div id="rank" class="rank">
+<div class="rank-row"><span class="pos mono">01</span><span class="country">Singapore <small>ສິງກະໂປ</small></span><span class="score mono">73.29</span><i data-w="100%"></i></div>
+<div class="rank-row"><span class="pos mono">02</span><span class="country">Switzerland <small>ສະວິດເຊີແລນ · ຕົ້ນກຳເນີດ WBL</small></span><span class="score mono">73.14</span><i data-w="99.8%"></i></div>
+<div class="rank-row me"><span class="pos mono">115</span><span class="country">Lao PDR <small>ສປປ ລາວ · ໂອກາດໃນການເຕີບໂຕ</small></span><span class="score mono">33.04</span><i data-w="45%"></i></div>
+</div>
+<div class="swiss"><span class="pill">SWISS MODEL · ນັບແຕ່ປີ 1981</span><span class="pill">75% ໜ້າວຽກ / 25% ທິດສະດີ</span><span class="pill">6 ເດືອນ ມີໂຄງສ້າງ</span><span class="pill">ຂັບເຄື່ອນໂດຍນາຍຈ້າງ</span></div>
+[/vc_column_text][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="apply" el_class="section apply"][vc_column pix_background_effect=""][vc_column_text el_class="wbl-apply-head"]
+<span class="eyebrow" style="color: #1a4dd8; display: block;">ສະໝັກອອນລາຍ · Apply Online</span>
+<h2 class="h-xl lao-display">ເລີ່ມຕົ້ນກັບ WBL ມື້ນີ້</h2>
+[/vc_column_text][vc_row_inner el_class="form-shell-wp"][vc_column_inner width="1/3" pix_background_effect=""][vc_column_text el_class="form-aside youth-a"]
+<h3 class="lao-display">ເລີ່ມເສັ້ນທາງອາຊີບຂອງເຈົ້າ</h3>
+ຕື່ມຂໍ້ມູນ 2 ນາທີ ແລ້ວທີມງານ ສຄອຊ ຈະຕິດຕໍ່ກັບເຈົ້າຜ່ານ WhatsApp ເພື່ອນັດສຳພາດ ແລະ ຈັບຄູ່ກັບສະຖານປະກອບການ.
+<div class="steps">
+<div class="s"><i>1</i>ຕື່ມຂໍ້ມູນສ່ວນຕົວ</div>
+<div class="s"><i>2</i>ເລືອກສາຂາອາຊີບ</div>
+<div class="s"><i>3</i>ແນບເອກະສານ</div>
+<div class="s"><i>4</i>ລໍຖ້າການນັດໝາຍ</div>
+</div>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="2/3" pix_background_effect=""][vc_column_text el_class="form-main"]
+<div class="form-tabs"><button class="active" type="button" data-form="youth">ໄວໜຸ່ມ</button><button type="button" data-form="enterprise">ວິສາຫະກິດ</button></div>
+<div class="wbl-form-panel" data-form="youth">[contact-form-7 id="THAY_ID_FORM_YOUTH" title="WBL Youth Application"]</div>
+<div class="wbl-form-panel" style="display: none;" data-form="enterprise">[contact-form-7 id="THAY_ID_FORM_ENTERPRISE" title="WBL Enterprise EOI"]</div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]

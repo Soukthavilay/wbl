@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>WBL → WordPress Setup Guide</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Space Grotesk',system-ui,sans-serif;background:#F6F4EF;color:#15171C;font-size:16px;line-height:1.6}
+.top{background:#0A2350;color:#fff;padding:40px 60px}
+.top .badge{display:inline-flex;align-items:center;gap:10px;background:#1A4DD8;padding:8px 16px;border-radius:99px;font-size:13px;font-weight:600;letter-spacing:.08em;margin-bottom:20px}
+.top h1{font-size:36px;font-weight:700;max-width:600px}
+.top p{margin-top:12px;color:rgba(255,255,255,.75);max-width:560px}
+.wrap{max-width:900px;margin:0 auto;padding:52px 40px}
+.step{background:#fff;border-radius:20px;padding:36px;margin-bottom:24px;border:1px solid #E4E1D8;position:relative}
+.step-num{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:10px;background:#0A2350;color:#fff;font-weight:700;font-size:16px;margin-bottom:16px;flex-shrink:0}
+.step-head{display:flex;align-items:center;gap:14px;margin-bottom:18px}
+.step h2{font-size:20px;font-weight:700}
+.step .badge2{font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;padding:5px 12px;border-radius:99px;font-weight:600}
+.no-code{background:#E4F4EC;color:#0F5E3C}
+.needs-dev{background:#FFF0DC;color:#7A4500}
+code{background:#F0EDE4;border:1px solid #E4E1D8;border-radius:7px;padding:2px 8px;font-size:14px;font-family:monospace}
+pre{background:#15171C;color:#E8E5DF;border-radius:14px;padding:22px;font-size:13.5px;line-height:1.7;overflow-x:auto;margin:16px 0;font-family:monospace}
+pre .c{color:#6A7180}
+pre .k{color:#FFB020}
+pre .s{color:#7BC67E}
+pre .t{color:#7BA7FF}
+.file-box{display:flex;align-items:center;gap:12px;background:#EEF3FF;border:1px solid #DCE6FF;border-radius:12px;padding:16px 20px;margin:12px 0}
+.file-box .ico{width:38px;height:38px;border-radius:9px;background:#1A4DD8;color:#fff;display:grid;place-items:center;font-weight:700;font-size:12px;flex-shrink:0}
+.file-box .txt{flex:1}
+.file-box .txt b{display:block;font-weight:700}
+.file-box .txt span{font-size:13px;color:#6A7180}
+.arrow{display:inline-flex;align-items:center;gap:6px;background:#0A2350;color:#fff;padding:8px 14px;border-radius:8px;font-size:13px;font-weight:600}
+.table{width:100%;border-collapse:collapse;margin-top:16px;font-size:14.5px}
+.table th{text-align:left;padding:12px 14px;background:#F6F4EF;font-weight:700;border-bottom:2px solid #E4E1D8;font-size:13px;text-transform:uppercase;letter-spacing:.08em}
+.table td{padding:12px 14px;border-bottom:1px solid #E4E1D8;vertical-align:top}
+.table tr:last-child td{border-bottom:none}
+.editable{background:#E4F4EC;color:#0F5E3C;padding:3px 9px;border-radius:99px;font-size:12px;font-weight:700}
+.raw{background:#FFF0DC;color:#7A4500;padding:3px 9px;border-radius:99px;font-size:12px;font-weight:700}
+.tip{background:#EEF3FF;border:1px solid #DCE6FF;border-radius:12px;padding:16px 20px;margin-top:14px;font-size:14.5px;display:flex;gap:12px}
+.tip .icon{font-size:20px}
+.check-list{list-style:none;display:flex;flex-direction:column;gap:10px;margin-top:14px}
+.check-list li{display:flex;gap:10px;align-items:flex-start}
+.check-list li::before{content:"✓";display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;background:#E4F4EC;color:#0F5E3C;border-radius:6px;font-size:13px;font-weight:700;flex-shrink:0;margin-top:2px}
+h3{font-size:16px;font-weight:700;margin:20px 0 10px;color:#0A2350}
+.img-path{display:inline-flex;align-items:center;gap:6px;background:#F0EDE4;border:1px dashed #B0AA9A;border-radius:8px;padding:6px 12px;font-family:monospace;font-size:13.5px;color:#3A3F4A;margin:4px 0}
+.bottom{background:#0A2350;color:rgba(255,255,255,.6);text-align:center;padding:28px;font-size:13px;margin-top:40px}
+.warn{background:#FFF0DC;border:1px solid #F5C97A;border-radius:12px;padding:14px 18px;font-size:14px;color:#7A4500;margin:12px 0;display:flex;gap:10px}
+</style>
+</head>
+<body>
+
+<div class="top">
+  <div class="badge">📦 WBL × WordPress Setup</div>
+  <h1>WPBakery Integration Guide</h1>
+  <p>3 steps to get the WBL site running in WordPress with full content editing — no code needed for text after setup.</p>
+</div>
+
+<div class="wrap">
+
+  <!-- FILES INCLUDED -->
+  <div class="step">
+    <div class="step-head"><span class="step-num">📁</span><h2>Files Included in This Package</h2></div>
+    <div class="file-box"><div class="ico">CSS</div><div class="txt"><b>wbl-custom.css</b><span>Complete design system CSS — add once to WordPress. Never edit this file.</span></div></div>
+    <div class="file-box"><div class="ico">SC</div><div class="txt"><b>shortcodes.txt</b><span>Full WPBakery shortcode structure — paste into your page's Backend Editor.</span></div></div>
+    <div class="file-box"><div class="ico">📖</div><div class="txt"><b>guide.html</b><span>This guide — open in any browser.</span></div></div>
+    <div class="tip"><span class="icon">💡</span><span>Also upload these 5 images to <code>wp-content/uploads/wbl/</code>: <code>group-hero.png</code>, <code>portrait-auto.png</code>, <code>woman-retail.png</code>, <code>engine.png</code>, <code>handshake.png</code> — they are inside the <code>assets/img/</code> folder of the main WBL project.</span></div>
+  </div>
+
+  <!-- STEP 1 -->
+  <div class="step">
+    <div class="step-head"><span class="step-num">1</span><h2>Add the CSS to WordPress</h2><span class="badge2 no-code">✓ No code</span></div>
+    <p>Go to: <span class="arrow">WordPress Admin → Appearance → Customize → Additional CSS</span></p>
+    <ol style="margin:16px 0 0 20px;display:flex;flex-direction:column;gap:10px">
+      <li>Open <b>wbl-custom.css</b> in any text editor (Notepad, TextEdit, VS Code)</li>
+      <li>Select all <code>Ctrl+A</code> → Copy <code>Ctrl+C</code></li>
+      <li>Paste into the <b>Additional CSS</b> box in WordPress Customizer</li>
+      <li>Click <b>Publish</b></li>
+    </ol>
+    <h3>Also add the Google Font (in functions.php or a plugin like WPCode):</h3>
+    <pre><span class="c">// Add to functions.php of your child theme:</span>
+<span class="k">function</span> <span class="t">wbl_enqueue_fonts</span>() {
+  wp_enqueue_style(<span class="s">'wbl-fonts'</span>, <span class="s">'https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap'</span>);
+}
+add_action(<span class="s">'wp_enqueue_scripts'</span>, <span class="t">'wbl_enqueue_fonts'</span>);</pre>
+    <div class="tip"><span class="icon">🔌</span><span>If you can't edit functions.php, use the free <b>WPCode</b> plugin → add a PHP snippet with the function above.</span></div>
+  </div>
+
+  <!-- STEP 2 -->
+  <div class="step">
+    <div class="step-head"><span class="step-num">2</span><h2>Create the WBL Page in WPBakery</h2><span class="badge2 no-code">✓ No code</span></div>
+    <ol style="margin:0 0 16px 20px;display:flex;flex-direction:column;gap:12px">
+      <li>Go to <b>Pages → Add New</b></li>
+      <li>Set the title: <b>WBL – ການຮຽນວິຊາຊີບໃນສະຖານປະກອບການ</b></li>
+      <li>Set Page Template to <b>Full Width</b> (hides WordPress header/sidebar)</li>
+      <li>Click <b>"Backend Editor"</b> button at the top</li>
+      <li>Click <b>"Add Element" → "Raw HTML"</b> then switch to the <b>Text / Code view</b></li>
+      <li>Open <b>shortcodes.txt</b>, copy everything between the <code>====</code> lines</li>
+      <li>Paste into the page's code view → <b>Save Draft</b></li>
+      <li>Preview to check it looks right → <b>Publish</b></li>
+    </ol>
+    <div class="warn"><span>⚠️</span><span>Make sure you are in <b>Backend Editor → Text/Code view</b>, NOT the visual editor, when pasting. Pasting into the visual editor will break the shortcodes.</span></div>
+  </div>
+
+  <!-- STEP 3 -->
+  <div class="step">
+    <div class="step-head"><span class="step-num">3</span><h2>Upload Images</h2><span class="badge2 no-code">✓ No code</span></div>
+    <p>Upload these 5 photos to WordPress Media Library (or via FTP to <code>/wp-content/uploads/wbl/</code>):</p>
+    <div style="margin-top:14px;display:flex;flex-direction:column;gap:8px">
+      <div class="img-path">group-hero.png → used in hero background</div>
+      <div class="img-path">portrait-auto.png → Youth portal card</div>
+      <div class="img-path">handshake.png → Enterprise portal card</div>
+      <div class="img-path">engine.png → WBL in action photo</div>
+      <div class="img-path">woman-retail.png → Retail/warehousing photo</div>
+    </div>
+    <div class="tip"><span class="icon">📸</span><span>After uploading via Media Library, copy each image URL and update the <code>src</code> inside the Hero Raw HTML block in WPBakery.</span></div>
+  </div>
+
+  <!-- WHAT'S EDITABLE -->
+  <div class="step">
+    <div class="step-head"><span class="step-num">✏️</span><h2>What You Can Edit in WPBakery (No Code)</h2></div>
+    <p style="margin-bottom:16px">Click any element in WPBakery's Visual Editor to edit it directly.</p>
+    <table class="table">
+      <thead><tr><th>Section</th><th>Element Type</th><th>Editable?</th></tr></thead>
+      <tbody>
+        <tr><td>Hero headline &amp; subtitle</td><td>Text Block inside Raw HTML</td><td><span class="raw">Edit HTML block</span></td></tr>
+        <tr><td>About WBL — heading &amp; body text</td><td>WPBakery Heading + Text Block</td><td><span class="editable">✓ Click to edit</span></td></tr>
+        <tr><td>Skills Crisis — problem list items</td><td>Text Block (HTML)</td><td><span class="editable">✓ Click to edit</span></td></tr>
+        <tr><td>5-Step WBL Cycle — step titles &amp; descriptions</td><td>Raw HTML</td><td><span class="raw">Edit HTML block</span></td></tr>
+        <tr><td>Career field names &amp; descriptions (7 cards)</td><td>WPBakery Text Blocks</td><td><span class="editable">✓ Click to edit</span></td></tr>
+        <tr><td>Cost figures (USD amounts)</td><td>Text Block</td><td><span class="editable">✓ Click to edit</span></td></tr>
+        <tr><td>Enterprise benefits (4 items)</td><td>Text Block</td><td><span class="editable">✓ Click to edit</span></td></tr>
+        <tr><td>CTA button labels</td><td>WPBakery Button element</td><td><span class="editable">✓ Click to edit</span></td></tr>
+        <tr><td>Contact info (address, phone, email)</td><td>WPBakery Text Block</td><td><span class="editable">✓ Click to edit</span></td></tr>
+        <tr><td>Footer navigation links</td><td>Text Block</td><td><span class="editable">✓ Click to edit</span></td></tr>
+        <tr><td>Stat trio cards (75% / 25% / 6mo)</td><td>Raw HTML</td><td><span class="raw">Edit HTML block</span></td></tr>
+        <tr><td>Application forms (field labels, options)</td><td>Raw HTML</td><td><span class="raw">Edit HTML block</span></td></tr>
+        <tr><td>Partner logos (LNCCI, HELVETAS, GIZ)</td><td>Raw HTML</td><td><span class="raw">Edit HTML block</span></td></tr>
+      </tbody>
+    </table>
+    <div class="tip" style="margin-top:18px"><span class="icon">📊</span><span><b>~70% of all content is click-to-edit</b> in WPBakery's visual editor. Only complex animated/coded sections (forms, stat rings, cycle animation) need a developer to update.</span></div>
+  </div>
+
+  <!-- FORMS SETUP -->
+  <div class="step">
+    <div class="step-head"><span class="step-num">4</span><h2>Connect the Application Forms (Required)</h2><span class="badge2 needs-dev">Developer: 15 min</span></div>
+    <p>The forms need a real backend to send emails to <code>phoukhong@gmail.com</code> and save to Google Sheets. Easiest option: <b>Formspree</b> (free).</p>
+    <h3>Option A — Formspree (Free, 5 min setup)</h3>
+    <ol style="margin:10px 0 0 20px;display:flex;flex-direction:column;gap:10px">
+      <li>Go to <a href="https://formspree.io" target="_blank" style="color:#1A4DD8">formspree.io</a> → Create 2 free forms</li>
+      <li>Form 1: "WBL Youth Application" → copy the endpoint URL</li>
+      <li>Form 2: "WBL Enterprise EOI" → copy the endpoint URL</li>
+      <li>In the shortcodes.txt (or WPBakery Raw HTML block for the forms), replace <code>YOUR_FORMSPREE_URL</code> with each form's endpoint</li>
+      <li>In Formspree settings: connect Google Sheets integration → data auto-saves to spreadsheet</li>
+    </ol>
+    <pre><span class="c">&lt;!-- Replace this --&gt;</span>
+action=<span class="s">"YOUR_FORMSPREE_URL"</span>
+
+<span class="c">&lt;!-- With this (example) --&gt;</span>
+action=<span class="s">"https://formspree.io/f/xyzabc12"</span></pre>
+    <h3>Option B — WPForms (WordPress plugin, more powerful)</h3>
+    <ul class="check-list">
+      <li>Install WPForms → create both forms visually</li>
+      <li>Replace Raw HTML form blocks with WPForms shortcode: <code>[wpforms id="123"]</code></li>
+      <li>Built-in email notifications + Google Sheets via Zapier</li>
+    </ul>
+  </div>
+
+  <!-- MENU INTEGRATION -->
+  <div class="step">
+    <div class="step-head"><span class="step-num">5</span><h2>Add to LNCCI Navigation Menu</h2><span class="badge2 no-code">✓ No code</span></div>
+    <p>Link the WBL page from the main LNCCI website navigation (as specified in the TOR).</p>
+    <ol style="margin:14px 0 0 20px;display:flex;flex-direction:column;gap:10px">
+      <li>Go to <b>Appearance → Menus</b></li>
+      <li>Find the main navigation menu</li>
+      <li>Click <b>Pages</b> → select <b>WBL Page</b> → <b>Add to Menu</b></li>
+      <li>Label it: <b>WBL ຮຽນວິຊາຊີບ</b></li>
+      <li>Save Menu</li>
+    </ol>
+    <div class="tip"><span class="icon">🔗</span><span>The TOR requires integration into the existing LNCCI website without affecting the old system. Using a standard WordPress page means zero impact on existing content.</span></div>
+  </div>
+
+</div>
+
+<div class="bottom">WBL · LNCCI · ASTI / HELVETAS / GIZ · Setup Guide</div>
+</body>
+</html>
