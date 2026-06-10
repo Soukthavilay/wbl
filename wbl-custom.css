@@ -818,6 +818,9 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
   box-shadow: 0 12px 26px -10px rgba(26,77,216,.6); transition: transform .25s, background .2s; }
 .form-main .wpcf7 input[type=submit]:hover { background: var(--blue-700); transform: translateY(-2px); }
 .wbl-form-panel { animation: pop .4s cubic-bezier(.2,.8,.2,1); }
+.wbl-form-title { font-size: clamp(20px,2.2vw,26px); margin: 6px 0 0 !important; }
+.wbl-form-note { margin: 12px 0 26px !important; color: var(--muted); max-width: 52ch; }
+.wbl-form-panel .btn { text-decoration: none !important; }
 
 
 /* ============================================================

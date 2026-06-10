@@ -267,8 +267,17 @@
 <div class="s"><i>3</i>ແນບເອກະສານ</div>
 <div class="s"><i>4</i>ລໍຖ້າການນັດໝາຍ</div>
 </div>
+
 [/vc_column_text][/vc_column_inner][vc_column_inner width="2/3" pix_background_effect=""][vc_column_text el_class="form-main"]
 <div class="form-tabs"><button class="active" type="button" data-form="youth">ໄວໜຸ່ມ</button><button type="button" data-form="enterprise">ວິສາຫະກິດ</button></div>
-<div class="wbl-form-panel" data-form="youth">[contact-form-7 id="THAY_ID_FORM_YOUTH" title="WBL Youth Application"]</div>
-<div class="wbl-form-panel" style="display: none;" data-form="enterprise">[contact-form-7 id="THAY_ID_FORM_ENTERPRISE" title="WBL Enterprise EOI"]</div>
+<div class="wbl-form-panel" data-form="youth">
+<h3 class="lao-display wbl-form-title">ໃບສະໝັກສຳລັບໄວໜຸ່ມ</h3>
+<p class="wbl-form-note">ກົດປຸ່ມລຸ່ມນີ້ ເພື່ອເປີດແບບຟອມສະໝັກ (ໃຊ້ເວລາປະມານ 2 ນາທີ — ເປີດໃນແທັບໃໝ່). ທີມງານ ສຄອຊ ຈະຕິດຕໍ່ກັບເຈົ້າຜ່ານ WhatsApp.</p>
+<a class="btn btn-primary btn-lg" href="https://ee-eu.kobotoolbox.org/x/e1fZ0ScA" target="_blank" rel="noopener">ເປີດໃບສະໝັກໄວໜຸ່ມ →</a>
+</div>
+<div class="wbl-form-panel" style="display: none;" data-form="enterprise">
+<h3 class="lao-display wbl-form-title">ແບບຟອມສະແດງຄວາມສົນໃຈ (EOI) ສຳລັບວິສາຫະກິດ</h3>
+<p class="wbl-form-note">ກົດປຸ່ມລຸ່ມນີ້ ເພື່ອເປີດແບບຟອມ EOI (ເປີດໃນແທັບໃໝ່) — ບໍ່ແມ່ນຂໍ້ຜູກພັນ. ທີມງານຈະຕິດຕໍ່ກັບທ່ານເພື່ອປຶກສາ.</p>
+<a class="btn btn-primary btn-lg" href="https://ee-eu.kobotoolbox.org/x/Xej2T1aV" target="_blank" rel="noopener">ເປີດແບບຟອມ EOI →</a>
+</div>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
