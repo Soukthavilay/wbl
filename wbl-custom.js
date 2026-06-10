@@ -148,7 +148,7 @@
     var rank = document.getElementById('rank');
     if (rank) {
       var fillRank = function (root) {
-        root.querySelectorAll('.rank-bar i').forEach(function (b) {
+        root.querySelectorAll('.rank-bar i, .rank-row > i[data-w]').forEach(function (b) {
           b.style.transition = 'width 1.3s cubic-bezier(.4,0,.1,1)';
           b.style.width = b.dataset.w;
         });
