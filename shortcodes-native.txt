@@ -98,7 +98,7 @@
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
 <div class="bub">2</div>
 <h4>ອອກແບບຮ່ວມກັນ</h4>
-ຮ່ວມພັດທະນາມາດຕະຖານ ແລະ ຫຼັກສູດ ກັບສະຖານອາຊີວະສຶກສາ.
+ຮ່ວມພັດທະນາ ມາດຖານອາຊີບ, ຫລັກສູດ, ຊຸດຝຶກ ແລະ ຊຸດປະເມີນ ກັບສະຖານອາຊີວະສຶກສາ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
 <div class="bub">3</div>
@@ -108,7 +108,7 @@
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
 <div class="bub">4</div>
 <h4>ຝຶກແບບ WBL</h4>
-ຝຶກອົບຮົມ 6 ເດືອນ — 75% ໜ້າວຽກຈິງ / 25% ທິດສະດີ.
+ຝຶກອົບຮົມ 6 ເດືອນ — 75% - 90% ໜ້າວຽກຈິງ / 10% - 25% ທິດສະດີ.
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
 <div class="bub">5</div>
