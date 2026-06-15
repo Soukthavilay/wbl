@@ -30,7 +30,7 @@
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="stat-trio" el_id="statTrio"][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-house-chimney-window" color="custom" css="" custom_color="#A6192E" el_class="sc-ico"][vc_column_text el_class="sc"]
 <span class="sc-eyebrow">Work-Based · ຮຽນໃນສະຖານທີ່</span>
 <div class="sc-num"><span data-count="75" data-suffix="% - 90%">0% - 90%</span><span class="unit"></span></div>
-<div class="sc-label">ຮຽນຮູ້ໃນສະຖານປະກອບການ</div>
+<div class="sc-label">ຮຽນຢູ່ສະຖານປະກອບການທີ່ຜູ້ຮຽນເລືອກ</div>
 <p class="sc-desc">ໜ້າວຽກຈິງ, ອຸປະກອນຈິງ, ກ່ຽວຂ້ອງກັບການດຳເນີນງານຂອງທ່ານ</p>
 
 <div class="sc-bar-wrap">
@@ -51,7 +51,7 @@
 <span class="sc-eyebrow">Duration · ໄລຍະເວລາ</span>
 <div class="sc-num"><span data-count="6">0</span><span class="unit"> ເດືອນ</span></div>
 <div class="sc-label">ໄລຍະການຝຶກອົບຮົມ WBL</div>
-<p class="sc-desc">ໂຄງສ້າງ 6 ເດືອນ ທີ່ຄຸ້ມຄ່າ ສ້າງທັກສະທີ່ຍືນຍົງ ຢ່າງມີລະບົບ</p>
+<p class="sc-desc">ໂຄງສ້າງ 6 ເດືອນ ໄດ້ຮັບ ປະກາສະນີຍະບັດ ວຸດທິການສຶກສາຊັ້ນຕົ້ນ ລະດັບ 2 ຮັບຮອງຈາກກະຊວງສຶກສາທິການ ແລະ ກິລາ</p>
 
 <div class="sc-bar-wrap">
 <div class="sc-bar" style="background: #0F8A5F;" data-w="100%"></div>
