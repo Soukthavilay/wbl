@@ -17,23 +17,15 @@
 <h2 class="h-xl lao-display">ບໍ່ແມ່ນໂຄງການ <span style="color: #6a7180;">‘ຝຶກງານ’</span> —
 ແຕ່ເປັນກົນລະຍຸດສ້າງບຸກຄະລາກອນ</h2>
 <p class="lead">WBL ແມ່ນການຮຽນຮູ້ຜ່ານການປະຕິບັດຈິງ ທີ່ <b>ອອກແບບຮ່ວມກັນ</b> ໂດຍສະຖານປະກອບການ ແລະ ສະຖານອາຊີວະສຶກສາ ເພື່ອສ້າງທັກສະທີ່ພ້ອມເຮັດວຽກ. ນັບຕັ້ງແຕ່ປີ 1981 ໂມເດລນີ້ໄດ້ຊ່ວຍໃຫ້ສະວິດເຊີແລນກາຍເປັນໜຶ່ງໃນປະເທດທີ່ມີນະວັດຕະກຳສູງທີ່ສຸດໃນໂລກ.</p>
-[/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="panel no"]
-<h3 class="h-m"><span class="tag">WBL ບໍ່ແມ່ນ</span></h3>
-<ul>
- 	<li><span class="ic">✕</span>ບໍ່ແມ່ນ CSR ຫຼື ກິດຈະກຳເພື່ອສັງຄົມ</li>
- 	<li><span class="ic">✕</span>ບໍ່ແມ່ນພຽງການສັງເກດການ ທີ່ຜູ້ຝຶກພຽງເບິ່ງ ແລະ ໝາຍ</li>
- 	<li><span class="ic">✕</span>ບໍ່ແມ່ນພຽງການຝຶກອົບຮົມໄລຍະສັ້ນທົ່ວໄປ</li>
- 	<li><span class="ic">✕</span>ບໍ່ແມ່ນ ‘ຝຶກງານ’ ເສີມ ທີ່ແຍກອອກຈາກວຽກຈິງ</li>
- 	<li><span class="ic">✕</span>ບໍ່ແມ່ນຫຼັກສູດໃນໂຮງຮຽນ ທີ່ຕັດຂາດຈາກການດຳເນີນງານຂອງທ່ານ</li>
-</ul>
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="panel yes"]
+[/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner pix_background_effect=""][vc_column_text el_class="panel yes"]
 <h3 class="h-m"><span class="tag">WBL ແມ່ນ</span></h3>
 <ul>
- 	<li><span class="ic">✓</span>ການຮຽນຮູ້ຜ່ານການປະຕິບັດຈິງ ໃນໜ້າວຽກຕົວຈິງ</li>
- 	<li><span class="ic">✓</span>ອອກແບບຫຼັກສູດ <b>ຮ່ວມກັນ</b> ໂດຍນາຍຈ້າງ ແລະ ສະຖານອາຊີວະສຶກສາ</li>
- 	<li><span class="ic">✓</span>ຂັບເຄື່ອນໂດຍນາຍຈ້າງ ຕາມຄວາມຕ້ອງການແຮງງານຈິງ</li>
- 	<li><span class="ic">✓</span>ກົນລະຍຸດຫຼັກ ໃນການສ້າງບຸກຄະລາກອນທີ່ມີຄຸນນະພາບ</li>
- 	<li><span class="ic">✓</span>ທັກສະທີ່ພ້ອມເຮັດວຽກໄດ້ ຕັ້ງແຕ່ມື້ທຳອິດ</li>
+ 	<li><span class="ic">✓</span>ການຮຽນວິຊາຊີບຜ່ານການເຂົ້າຮ່ວມເຮັດວຽກຕົວຈິງ ໃນຂະບວນການຜະລິດ, ການບໍລິການ ໃນສະຖານປະກອບການ</li>
+ 	<li><span class="ic">✓</span>ຕາມຫລັກສູດອາຊີວະສຶກສາທີ່ອອກແບບ ຮ່ວມກັນ ຂອງສະຖານປະກອບການ ແລະ ສະຖານອາຊີວະສຶກສາ</li>
+ 	<li><span class="ic">✓</span>ຝຶກໂດຍຄູຝຶກທີ່ມີປະສົບການໃນສະຖານປະກອບການ ແລະ ສະຖານອາຊີວະສຶກສາ</li>
+ 	<li><span class="ic">✓</span>ສ້າງທັກສະທີ່ພ້ອມເຮັກວຽກທັນທີ ຕັ້ງແຕ່ມື້ທຳອິດທີ່ຝຶກ</li>
+ 	<li><span class="ic">✓</span>ຮຽນຈົບ ບໍລີສັດທີ່ທ່ານເຂົ້າຝຶກນຳຈະພິຈາລະນາຮັບເຂົ້າເຮັດວຽກທັນທີ.</li>
+ 	<li><span class="ic">✓</span>ຍຸດທະສາດ ໃນການສ້າງບຸກຄະລາກອນທີ່ມີຄຸນນະພາບ ແລະ ສອດຄ່ອງກັບຄວາມຕ້ອງການຂອງຜູ້ໃຊ້ແຮງງານ ຫຼື ຕະຫລາດແຮງງານທີ່ແທ້ຈິງ</li>
 </ul>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="stat-trio" el_id="statTrio"][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-house-chimney-window" color="custom" css="" custom_color="#A6192E" el_class="sc-ico"][vc_column_text el_class="sc"]
 <span class="sc-eyebrow">Work-Based · ຮຽນໃນສະຖານທີ່</span>
