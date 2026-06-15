@@ -67,7 +67,7 @@
 </div>
 <div class="prob-item">
 
-<span class="n mono">02</span>ຕ້ອງໄດ້ມີການສະຫນອງການຝຶກອົບຮົມເພີ່ມຕື່ມ -ໃຊ້ເວລາດົນ-ບໍ່ເປັນລະບົບ-ບໍ່ມີການຢັ້ງຢືນວຸດທິ
+<span class="n mono">02</span>ຕ້ອງໄດ້ມີການສະຫນອງການຝຶກອົບຮົມເພີ່ມເຕີມ - ໃຊ້ເວລາດົນ - ບໍ່ເປັນລະບົບ - ບໍ່ມີການຢັ້ງຢືນວຸດທິ
 
 </div>
 <div class="prob-item">
@@ -123,17 +123,17 @@
 <p class="lead">ທ່ານແມ່ນໃຜ? ເລືອກໜຶ່ງດ້ານລຸ່ມນີ້ ເພື່ອເຂົ້າສູ່ໜ້າສະເພາະ — ມີຂໍ້ມູນ, ສິດທິປະໂຫຍດ ແລະ ແບບຟອມສະໝັກ ທີ່ອອກແບບໄວ້ສຳລັບທ່ານໂດຍສະເພາະ!</p>
 [/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner el_class="pcard-col youth" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#FFB02030" pix_background_effect="" css=".vc_custom_1781082462236{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-9.16.13-AM.png?id=23) !important;}"][vc_column_text]
 <span class="ptag">ສຳລັບໄວໜຸ່ມ · YOUTH</span>
-<h3 class="lao-display">ຮຽນວິຊາຊີບ ໄດ້ເງິນອຸດໜູນ ແລະ ໃບຮັບຮອງ!</h3>
-7 ສາຂາອາຊີບ · ຝຶກໃນສະຖານປະກອບການຈິງ · ໄດ້ວຽກໄວ
-<div class="pcard-chips">7 ສາຂາອາຊີບເງິນອຸດໜູນ $400ໃບຮັບຮອງ</div>
+<h3 class="lao-display">ຮຽນວິຊາຊີບທີ່ ໃນບໍລິສັດທີ່ເຈົ້າເລືອກ ພ້ອມໂອກາດໄດ້ເຂົ້າເປັນພະນັກງານທັນທີທີ່ຮຽນຈົບ</h3>
+ປະຈຸບັນ ມີ 7 ສາຂາອາຊີບ · ຝຶກໃນສະຖານປະກອບການຈິງ · ໂອກາດຕໍ່ສັນຍາເຮັດວຽກເລີຍ
+<div class="pcard-chips">ມີເງິນອຸດໜູນໃນເວລາຮຽນຈາກບໍລິສັດ ແລະ ນະໂຍບາຍອື່ນໆຂອງບໍລິສັດ ສືບຕໍ່ຮຽນຍົກລະດັບໄດ້ຕະຫລອດ</div>
 <span class="go">ເຂົ້າສູ່ໜ້າໄວໜຸ່ມ <span class="arr">→</span></span>
 
 [/vc_column_text][/vc_column_inner][vc_column_inner el_class="pcard-col ent" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#0A235047" pix_background_effect="" css=".vc_custom_1781082510878{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-9.16.55-AM.png?id=19) !important;}"][vc_column_text]
-<span class="ptag">ສຳລັບວິສາຫະກິດ · ENTERPRISE</span>
+<span class="ptag">ສຳລັບຖານປະກອບການ · ENTERPRISE</span>
 <h3 class="lao-display">ສ້າງແຮງງານທີ່ມີທັກສະ ໂດຍລົງທຶນຮ່ວມ — ບໍ່ແມ່ນຄ່າໃຊ້ຈ່າຍໃໝ່!</h3>
 Co-Investment Model · ຫຼຸດການລາອອກ · ທັກສະຖືກກັບວຽກ 100%
 <div class="pcard-chips">CO-INVESTMENTທັກສະ 100%ຫຼຸດການລາອອກ</div>
-<span class="go">ເຂົ້າສູ່ໜ້າວິສາຫະກິດ <span class="arr">→</span></span>
+<span class="go">ເຂົ້າສູ່ໜ້າຖານປະກອບການ <span class="arr">→</span></span>
 
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
@@ -141,37 +141,37 @@ Co-Investment Model · ຫຼຸດການລາອອກ · ທັກສະ�
 <p class="lead">ເລືອກສາຂາທີ່ເຈົ້າສົນໃຈ ແລ້ວຝຶກໃນສະຖານປະກອບການຈິງ ພ້ອມຮັບເງິນອຸດໜູນ ແລະ ໃບຮັບຮອງຄວາມສາມາດ.</p>
 [/vc_column_text][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">01</div>
-<h4>ການກໍ່ສ້າງ</h4>
-ໂຄງສ້າງ, ການກໍ່ສ້າງອາຄານ ແລະ ວຽກພື້ນຖານ
+<h4>ຊ່າງບໍາລຸງຮັກສາລົດຂັ້ນພື້ນຖານ</h4>
+ໂຄງສ້າງ, ການບໍາລຸງຮັກສາລົດ ແລະ ວຽກພື້ນຖານ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">02</div>
-<h4>ຊ່າງໄຟຟ້າ &amp; ເຄື່ອງປັບອາກາດ</h4>
+<h4>ຊ່າງຕິດຕັ້ງ ແລະ ສ້ອມແປງເຄື່ອງປັບອາກາດ</h4>
 ລະບົບໄຟຟ້າ, ການຕິດຕັ້ງ ແລະ ສ້ອມແປງແອ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">03</div>
-<h4>ຍານຍົນ &amp; ລົດ EV</h4>
-ສ້ອມແປງເຄື່ອງຍົນ ແລະ ເທັກໂນໂລຊີລົດໄຟຟ້າ
+<h4>ຊ່າງຕິດຕັ້ງໄຟຟ້າຢູ່ອາຄານ</h4>
+ສ້ອມແປງ ແລະ ຕິດຕັ້ງໄຟຟ້າ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">04</div>
-<h4>ກົນຈັກ &amp; ເຄື່ອງມືຈັກກົນ</h4>
-ກົນຈັກພື້ນຖານ ແລະ ການນຳໃຊ້ເຄື່ອງມືຈັກກົນ
+<h4>ພະນັກງານ ຄຸ້ມຄອງສິນຄ້າໃນສາງ</h4>
+ການຈັດການສາງ ແລະ ການຄວບຄຸມສິນຄ້າຄົງຄັງ
 
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">05</div>
-<h4>ການຜະລິດ</h4>
-ສາຍການຜະລິດ ແລະ ການຄວບຄຸມຄຸນນະພາບ
+<h4>ຊ່າງເຄື່ອງຈັກ ເຄື່ອງມື</h4>
+ສາຍເຄື່ອງຈັກ ແລະ ເຄື່ອງມືໃນການສ້ອມແປງ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">06</div>
-<h4>ສາງສິນຄ້າ &amp; ຄວບຄຸມສະຕັອກ</h4>
-ການຈັດການສາງ ແລະ ການຄວບຄຸມສິນຄ້າຄົງຄັງ
+<h4>ຊ່າງສ້ອມແປງລົດຍົນໄຟຟ້າ ແລະ ໄຮບຣິດ</h4>
+ສ້ອມແປງລົດຍົນທັງໄຟຟ້າ ແລະ ນ້ຳມັນ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">07</div>
-<h4>ຂາຍຍ່ອຍ &amp; ບໍລິການລູກຄ້າ</h4>
+<h4>ພະນັກງານ ບໍລິການລູກຄ້າ</h4>
 ການຂາຍ, ການບໍລິການ ແລະ ປະສົບການລູກຄ້າ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card span2"]
@@ -179,24 +179,24 @@ Co-Investment Model · ຫຼຸດການລາອອກ · ທັກສະ�
 ສະໝັກໄວ້ກ່ອນ — ທີມງານ ສຄອຊ ຈະຊ່ວຍແນະນຳສາຂາທີ່ເໝາະສົມ.
 
 <a class="btn btn-amber" href="#apply">ປຶກສາ &amp; ສະໝັກ →</a>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_custom_heading text="ເປັນຫຍັງຕ້ອງ WBL" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow wbl-mt-80"][vc_custom_heading text="ສິ່ງທີ່ເຈົ້າຈະໄດ້ຮັບ" use_theme_fonts="yes" el_class="h-l lao-display"][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
-<div class="bnum mono">$400</div>
+<div class="bnum mono">$</div>
 <h4>ເງິນອຸດໜູນ</h4>
-ສຳລັບໄລຍະການຝຶກ 4 ເດືອນ ໃນສະຖານປະກອບການ
+ໄລຍະເປັນນັກຮຽນ ແລະ ນະໂຍບາຍອື່ນໆ ຕາມລະບຽບພາຍໃນຂອງ ແຕ່ລະ ບໍລີສັດ (ເຊັ່ນ: ອາຫານ, ທີ່ພັກ, ປະກັນໄພ, ...)
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
 <div class="bnum mono">100%</div>
 <h4>ທັກສະຖືກກັບວຽກ</h4>
-ຝຶກໃນໜ້າວຽກຈິງ ບໍ່ແມ່ນພຽງທິດສະດີ
+ເນັ້ນຮຽນຜ່ານການປະຄິບັດຕົວຈິງ - ບໍ່ເນັ້ນທິດສະດີ - ຮຽນແລ້ວສາມາດເຮັດວຽກໄດ້ຈິງ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
 <div class="bnum mono">✓</div>
 <h4>ໃບຮັບຮອງ</h4>
-ໃບຮັບຮອງຄວາມສາມາດທີ່ນາຍຈ້າງຍອມຮັບ
+ໄດ້ໃບຢັ້ງຟືນວຸດທິການສຶກສາແຫ່ງຊາດ ຈາກກະຊວງສຶກສາທິການ ແລະ ກິລາ-ສາມາດໄປຮຽນຕໍ່ໃນລະດັບທີ່ສູງຂື້ນໄດ້ໃນອະນາຄົດ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
 <div class="bnum mono">→</div>
 <h4>ໂອກາດໄດ້ວຽກ</h4>
-ຈັບຄູ່ໂດຍກົງກັບສະຖານປະກອບການ
+ຮຽນຈົບໄດ້ວຽກທັນທີກັບບໍລິສັດທີທ່ານເຂົ້າຮຽນ
 
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
