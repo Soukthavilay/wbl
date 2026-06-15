@@ -4,7 +4,7 @@
 [/vc_column_text][vc_column_text]
 <div class="hero-cta"><a class="btn btn-amber btn-lg" href="#youth">ຂ້ອຍແມ່ນໄວໜຸ່ມ →</a> <a class="btn btn-ghost btn-lg" href="#enterprise">ສະຖານປະກອບການ →</a></div>
 <div class="hero-foot">
-<div class="stat"><b class="mono"><span data-count="75" data-suffix="%">0%</span></b>ຮຽນຢູ່ສະຖານປະກອບການ</div>
+<div class="stat"><b class="mono"><span data-count="75" data-suffix="% - 90%">0% - 90%</span></b>ຮຽນຢູ່ສະຖານປະກອບການ</div>
 <div class="stat"><b class="mono"><span data-count="6">0</span> ເດືອນ</b>ໄລຍະການຝຶກອົບຮົມ</div>
 <div class="stat"><b class="mono"><span data-count="7">0</span></b>ສາຂາອາຊີບເປີດຮັບ</div>
 <div class="stat"><b class="mono">1981</b>Swiss Model ຕົ້ນກຳເນີດ</div>
@@ -37,12 +37,12 @@
 </ul>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="stat-trio" el_id="statTrio"][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-house-chimney-window" color="custom" css="" custom_color="#A6192E" el_class="sc-ico"][vc_column_text el_class="sc"]
 <span class="sc-eyebrow">Work-Based · ຮຽນໃນສະຖານທີ່</span>
-<div class="sc-num"><span data-count="75">0</span><span class="unit">%</span></div>
+<div class="sc-num"><span data-count="75" data-suffix="% - 90%">0% - 90%</span><span class="unit"></span></div>
 <div class="sc-label">ຮຽນຮູ້ໃນສະຖານປະກອບການ</div>
 <p class="sc-desc">ໜ້າວຽກຈິງ, ອຸປະກອນຈິງ, ກ່ຽວຂ້ອງກັບການດຳເນີນງານຂອງທ່ານ</p>
 
 <div class="sc-bar-wrap">
-<div class="sc-bar" style="background: #FFB020;" data-w="75%"></div>
+<div class="sc-bar" style="background: #FFB020;" data-w="75% - 90%"></div>
 </div>
 <span class="sc-tag" style="background: rgba(255,176,32,.14); color: #ffb020;">On-the-job training</span>
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-book" color="custom" css="" custom_color="#2E63EE" el_class="sc-ico"][vc_column_text el_class="sc"]

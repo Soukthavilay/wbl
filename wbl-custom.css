@@ -133,7 +133,7 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 .hero-kicker .dot{width:7px;height:7px;border-radius:50%;background:var(--amber);box-shadow:0 0 0 4px rgba(255,176,32,.25)}
 .hero h1{max-width:16ch}
 .hero .wbl-word{color:var(--amber)}
-.hero-sub{max-width:46ch;margin-top:22px;color:rgba(255,255,255,.86);font-size:clamp(17px,1.5vw,21px)}
+.hero-sub{max-width:46ch;margin-top:22px;color:rgba(255,255,255,.86);font-size:clamp(14px,1.5vw,18px)}
 .hero-cta{display:flex;flex-wrap:wrap;gap:14px;margin-top:34px}
 .hero-foot{display:flex;flex-wrap:wrap;gap:28px;align-items:center;margin-top:46px;padding-top:26px;border-top:1px solid rgba(255,255,255,.16)}
 .hero-foot .stat b{font-family:var(--font-mono);font-size:clamp(26px,3vw,40px);font-weight:700;color:#fff;display:block;line-height:1}
