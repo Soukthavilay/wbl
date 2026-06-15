@@ -59,37 +59,6 @@
 <span class="sc-tag" style="background: rgba(15,138,95,.18); color: #3dba8a;">Structured programme</span>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="problem" el_class="section problem"][vc_column pix_background_effect=""][vc_custom_heading text="ວິກິດການດ້ານທັກສະ · The Skills Crisis" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="ສິ່ງທ້າທາຍທີ່ສະຖານປະກອບການໃນລາວກຳລັງປະເຊີນ" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_row_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-list"]
-<div class="prob-item">
-
-<span class="n mono">01</span>ການຈ້າງແຮງງານດິບ ບໍ່ມີທັກສະທີ່ບໍລິສັດ/ສະຖານປະກອບການຕ້ອງການ
-
-</div>
-<div class="prob-item">
-
-<span class="n mono">02</span>ຕ້ອງໄດ້ມີການສະຫນອງການຝຶກອົບຮົມເພີ່ມເຕີມ - ໃຊ້ເວລາດົນ - ບໍ່ເປັນລະບົບ - ບໍ່ມີການຢັ້ງຢືນວຸດທິ
-
-</div>
-<div class="prob-item">
-
-<span class="n mono">03</span>ອັດຕາການລາອອກໃນໄລຍະເລີ່ມຕົ້ນທີ່ສູງ
-
-</div>
-<div class="prob-item">
-
-<span class="n mono">04</span>ຜູ້ຄຸມງານ ຮັບພາລະຫນັກກັບການຝຶກອົບຮົມທີ່ບໍ່ມີການຈັດວາງເປັນລະບົບ ແລະ ບໍ່ມີການຊ່ວຍເຫຼືອໃນການພັດທະນາຊຸດຝຶກ ແລະ ປະເມີນ
-
-</div>
-<div class="prob-item">
-
-<span class="n mono">05</span>ຜົນຜະລິດຕໍ່າ ເນື່ອງຈາກແຮງງານບໍ່ມີທັກສະທີ່ສອດຄ່ອງ
-
-</div>
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-quote"]
-<blockquote>“ນັ້ນໝາຍເຖິງຜົນກຳໄລທີ່ທ່ານຕ້ອງສູນເສຍໄປ<span class="door">ຕ້ອງສູນເສຍໄປ.”</span></blockquote>
-<div class="by">ແຫຼ່ງທີ່ມາ · EuroCham–SDC Skills Gap Assessment 2024</div>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
-
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="cycle" el_class="section cycle"][vc_column pix_background_effect=""][vc_custom_heading text="The WBL Cycle · ວົງຈອນການເຮັດວຽກ" font_container="tag:div|text_align:left|color:%231A4DD8" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="5 ຂັ້ນຕອນ ຈາກຄວາມຕ້ອງການ ສູ່ການຈ້າງງານ" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_row_inner el_class="wbl-cycle-row" el_id="wbl-cycle"][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
 <div class="bub">1</div>
 <h4>ລະບຸຄວາມຕ້ອງການ</h4>
@@ -232,6 +201,37 @@ Co-Investment Model · ຫຼຸດການລາອອກ · ທັກສະ�
 </div>
 <div class="swiss"><span class="pill">SWISS MODEL · ນັບແຕ່ປີ 1981</span><span class="pill">75% - 90% ໜ້າວຽກ / 10% - 25% ທິດສະດີ</span><span class="pill">6 ເດືອນ ມີໂຄງສ້າງ</span><span class="pill">ຂັບເຄື່ອນໂດຍສະຖານປະກອບການ</span></div>
 [/vc_column_text][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="problem" el_class="section problem"][vc_column pix_background_effect=""][vc_custom_heading text="ວິກິດການດ້ານທັກສະ · The Skills Crisis" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="ສິ່ງທ້າທາຍທີ່ສະຖານປະກອບການໃນລາວກຳລັງປະເຊີນ" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_row_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-list"]
+<div class="prob-item">
+
+<span class="n mono">01</span>ການຈ້າງແຮງງານດິບ ບໍ່ມີທັກສະທີ່ບໍລິສັດ/ສະຖານປະກອບການຕ້ອງການ
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">02</span>ຕ້ອງໄດ້ມີການສະຫນອງການຝຶກອົບຮົມເພີ່ມເຕີມ - ໃຊ້ເວລາດົນ - ບໍ່ເປັນລະບົບ - ບໍ່ມີການຢັ້ງຢືນວຸດທິ
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">03</span>ອັດຕາການລາອອກໃນໄລຍະເລີ່ມຕົ້ນທີ່ສູງ
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">04</span>ຜູ້ຄຸມງານ ຮັບພາລະຫນັກກັບການຝຶກອົບຮົມທີ່ບໍ່ມີການຈັດວາງເປັນລະບົບ ແລະ ບໍ່ມີການຊ່ວຍເຫຼືອໃນການພັດທະນາຊຸດຝຶກ ແລະ ປະເມີນ
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">05</span>ຜົນຜະລິດຕໍ່າ ເນື່ອງຈາກແຮງງານບໍ່ມີທັກສະທີ່ສອດຄ່ອງ
+
+</div>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-quote"]
+<blockquote>“ນັ້ນໝາຍເຖິງຜົນກຳໄລທີ່ທ່ານຕ້ອງສູນເສຍໄປ<span class="door">ຕ້ອງສູນເສຍໄປ.”</span></blockquote>
+<div class="by">ແຫຼ່ງທີ່ມາ · EuroCham–SDC Skills Gap Assessment 2024</div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="apply" el_class="section apply"][vc_column pix_background_effect=""][vc_column_text el_class="wbl-apply-head"]
 <span class="eyebrow" style="color: #1a4dd8; display: block;">ສະໝັກອອນລາຍ · Apply Online</span>
