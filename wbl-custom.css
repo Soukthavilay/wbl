@@ -500,7 +500,7 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
    ============================================================ */
 
 /* --- Resets cho WPBakery / theme --- */
-.section .wpb_content_element { margin-bottom: 0; }
+.section .wpb_content_element { margin-bottom: 20px; }
 .section .vc_row_inner { margin-top: 44px; }
 .section h2, .section h3, .section h4 { margin: 0; padding: 0; border: none; }
 .section p { margin: 0; }
