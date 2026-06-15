@@ -524,15 +524,15 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
     linear-gradient(180deg,rgba(10,35,80,.55) 0%,rgba(10,35,80,.2) 30%,rgba(10,35,80,.55) 62%,rgba(8,24,56,.96) 100%),
     linear-gradient(95deg,rgba(8,24,56,.86) 0%,rgba(8,24,56,.32) 52%,rgba(8,24,56,0) 78%); }
 .wbl-hero-row > div, .wbl-hero-row .wpb_column { position: relative; z-index: 2; }
-.wbl-hero-row .vc_column-inner { padding-top: 140px; padding-bottom: clamp(48px,7vw,96px); background: none !important; }
+.wbl-hero-row .vc_column-inner { padding-top: 110px; padding-bottom: clamp(48px,7vw,96px); background: none !important; }
 /* Nếu lỡ chọn ảnh ở Design Options của CỘT thì chuyển ảnh đó lên ROW —
    dòng background:none ở trên vô hiệu ảnh đặt nhầm chỗ để overlay hoạt động */
 
 /* H1 — ép thắng style heading của theme pixfort */
 .wbl-hero-row h1, .wbl-hero-row h1.h-xxl {
-  max-width: 16ch; margin: 0; color: #fff;
+  max-width: 25ch; margin: 0; color: #fff;
   font-family: var(--font-lao);
-  font-size: clamp(36px,6.4vw,78px);
+  font-size: clamp(30px,6.4vw,40px);
   font-weight: 800; line-height: 1.15; letter-spacing: 0;
 }
 .wbl-hero-row .wbl-word { color: var(--amber); }
