@@ -524,7 +524,9 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
     linear-gradient(180deg,rgba(10,35,80,.55) 0%,rgba(10,35,80,.2) 30%,rgba(10,35,80,.55) 62%,rgba(8,24,56,.96) 100%),
     linear-gradient(95deg,rgba(8,24,56,.86) 0%,rgba(8,24,56,.32) 52%,rgba(8,24,56,0) 78%); }
 .wbl-hero-row > div, .wbl-hero-row .wpb_column { position: relative; z-index: 2; }
-.wbl-hero-row .vc_column-inner { padding-top: 110px; padding-bottom: clamp(48px,7vw,96px); background: none !important; }
+.wbl-hero-row .vc_column-inner { padding-top: 160px; padding-bottom: clamp(48px,7vw,96px); background: none !important; }
+/* WP admin bar (+32px) — bù thêm khi logged in */
+.admin-bar .wbl-hero-row .vc_column-inner { padding-top: 192px; }
 /* Nếu lỡ chọn ảnh ở Design Options của CỘT thì chuyển ảnh đó lên ROW —
    dòng background:none ở trên vô hiệu ảnh đặt nhầm chỗ để overlay hoạt động */
 
