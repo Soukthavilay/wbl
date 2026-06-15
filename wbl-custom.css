@@ -721,9 +721,9 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
   border-radius: 999px; margin-bottom: 16px; }
 .pcard-col.youth .ptag { background: var(--amber); color: var(--ink); }
 .pcard-col.ent .ptag { background: #fff; color: var(--blue-800); }
-.pcard-col h3 { font-size: clamp(26px,3vw,38px); color: #fff; }
+.pcard-col h3 { font-size: clamp(23px,2.6vw,32px); color: #fff; line-height: 1.22; text-shadow: 0 2px 16px rgba(0,0,0,.5); }
 .pcard-col p { margin-top: 12px; color: rgba(255,255,255,.88); max-width: 34ch; }
-.pcard-col .go { margin-top: 24px; display: inline-flex; align-items: center; gap: 10px; font-weight: 700; }
+.pcard-col .go { margin-top: 24px; display: inline-flex; align-items: center; gap: 10px; font-weight: 700; text-shadow: 0 1px 10px rgba(0,0,0,.5); }
 .pcard-col .go .arr { width: 38px; height: 38px; border-radius: 50%; display: grid;
   place-items: center; font-size: 18px; transition: transform .3s; }
 .pcard-col.youth .go .arr { background: var(--amber); color: var(--ink); }
@@ -732,6 +732,14 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 .pcard-col .card-link { position: absolute; inset: 0; z-index: 2; }
 /* Hàng chips trong portal card */
 .pcard-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.pcard-col .pcard-list { list-style: none !important; margin: 18px 0 0; padding: 0;
+  display: flex; flex-direction: column; gap: 9px; max-width: 42ch; }
+.pcard-col .pcard-list li { position: relative; list-style: none !important; padding-left: 24px;
+  font-size: 14.5px; line-height: 1.5; color: rgba(255,255,255,.94); text-shadow: 0 1px 10px rgba(0,0,0,.55); }
+.pcard-col .pcard-list li::marker { content: ""; }
+.pcard-col .pcard-list li::before { content: "✓"; position: absolute; left: 0; top: 0;
+  font-weight: 700; color: #fff; }
+.pcard-col.youth .pcard-list li::before { color: var(--amber); }
 .pcard-chips span { padding: 7px 13px; border-radius: 999px;
   background: rgba(0,0,0,.35); -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px);
   border: 1px solid rgba(255,255,255,.25);
@@ -937,8 +945,8 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 .problem blockquote span[style*="FFB020"], .problem .door{color:var(--amber)!important}
 
 /* Portal cards: gradient đậm hơn để chữ luôn đọc được trên ảnh sáng */
-.pcard-col.ent .vc_column-inner::after{background:linear-gradient(180deg,rgba(10,26,48,.15) 0%,rgba(10,26,48,.45) 42%,rgba(8,20,38,.96) 100%)}
-.pcard-col.youth .vc_column-inner::after{background:linear-gradient(180deg,rgba(20,23,28,.08) 0%,rgba(20,23,28,.3) 40%,rgba(60,38,5,.94) 100%)}
+.pcard-col.ent .vc_column-inner::after{background:linear-gradient(180deg,rgba(10,26,48,.32) 0%,rgba(10,24,46,.64) 32%,rgba(9,21,42,.9) 64%,rgba(8,20,38,.97) 100%)}
+.pcard-col.youth .vc_column-inner::after{background:linear-gradient(180deg,rgba(22,20,14,.3) 0%,rgba(34,24,9,.64) 32%,rgba(48,31,8,.9) 64%,rgba(60,38,5,.97) 100%)}
 
 /* Donut legend: hàng 1 = đỏ (chương trình), hàng 2 = steel blue */
 .cost-legend .row:nth-child(1) .sw, .cost-legend .row:nth-child(1)::before{background:var(--red-600)!important}

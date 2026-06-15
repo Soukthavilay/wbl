@@ -93,15 +93,25 @@
 [/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner el_class="pcard-col youth" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#FFB02030" pix_background_effect="" css=".vc_custom_1781082462236{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-9.16.13-AM.png?id=23) !important;}"][vc_column_text]
 <span class="ptag">ສຳລັບໄວໜຸ່ມ · YOUTH</span>
 <h3 class="lao-display">ຮຽນວິຊາຊີບທີ່ ໃນບໍລິສັດທີ່ເຈົ້າເລືອກ ພ້ອມໂອກາດໄດ້ເຂົ້າເປັນພະນັກງານທັນທີທີ່ຮຽນຈົບ</h3>
-ປະຈຸບັນ ມີ 7 ສາຂາອາຊີບ · ຝຶກໃນສະຖານປະກອບການຈິງ · ໂອກາດຕໍ່ສັນຍາເຮັດວຽກເລີຍ
-<div class="pcard-chips">ມີເງິນອຸດໜູນໃນເວລາຮຽນຈາກບໍລິສັດ ແລະ ນະໂຍບາຍອື່ນໆຂອງບໍລິສັດ ສືບຕໍ່ຮຽນຍົກລະດັບໄດ້ຕະຫລອດ</div>
+<ul class="pcard-list">
+<li>ປະຈຸບັນ ມີ 7 ສາຂາອາຊີບ</li>
+<li>ສັນຍາຝຶກອົບຮົມກັບບໍລິສັດທີ່ທ່ານເລືອກ. ຮຽນຈົບມີໂອກາດຕໍ່ສັນຍາເຮັດວຽກເລີຍ</li>
+<li>ມີເງິນອຸດໜູນໃນເວລາຮຽນຈາກບໍລິສັດ ແລະ ນະໂຍບາຍອື່ນໆຂອງບໍລິສັດ*</li>
+<li>ໄດ້ຮັບໃບປະກາດຊັ້ນຕົ້ນ ລະດັບ 2 ຈາກກະຊວງສຶກສາ</li>
+<li>ສາມາດສືບຕໍ່ຮຽນຍົກລະດັບໄດ້ຕະຫລອດຊີວິດ</li>
+</ul>
 <span class="go">ເຂົ້າສູ່ໜ້າໄວໜຸ່ມ <span class="arr">→</span></span>
 
 [/vc_column_text][/vc_column_inner][vc_column_inner el_class="pcard-col ent" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#0A235047" pix_background_effect="" css=".vc_custom_1781082510878{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-9.16.55-AM.png?id=19) !important;}"][vc_column_text]
 <span class="ptag">ສຳລັບຖານປະກອບການ · ENTERPRISE</span>
 <h3 class="lao-display">ສ້າງແຮງງານທີ່ມີທັກສະ ໂດຍລົງທຶນຮ່ວມ — ບໍ່ແມ່ນຄ່າໃຊ້ຈ່າຍໃໝ່!</h3>
-Co-Investment Model · ຫຼຸດການລາອອກ · ທັກສະຖືກກັບວຽກ 100%
-<div class="pcard-chips">CO-INVESTMENTທັກສະ 100%ຫຼຸດການລາອອກ</div>
+<ul class="pcard-list">
+<li>ໄດ້ແຮງງານທີ່ມີທັກສະຖືກກັບໜ້າວຽກ</li>
+<li>ຫຼຸດອັດຕາການລາອອກ — ມີຄວາມເຊື່ອໝັ້ນກັບອົງກອນ ນັບແຕ່ເລີ່ມຕົ້ນ</li>
+<li>ລົງທຶນຮ່ວມທີ່ຄຸ້ມຄ່າ — ສ່ວນໃຫຍ່ແມ່ນເຄື່ອງມື ແລະ ສະຖານທີ່ ທີ່ທ່ານໃຊ້ຢູ່ແລ້ວ ບໍ່ມີຄ່າໃຊ້ຈ່າຍໃໝ່</li>
+<li>ຜູ້ຄຸມງານ ໄດ້ຮັບການຢັ້ງຢືນເປັນຄູຝຶກປະຈຳ — ຄວາມຮູ້ ແລະ ທັກສະ ຍັງຢູ່ກັບອົງກອນ</li>
+<li>ປະເມີນ ແລະ ຮັບຮອງຄວາມສາມາດ — ໄດ້ແຮງງານທີ່ມີຫຼັກຖານຢັ້ງຢືນ ເຊື່ອຖືໄດ້</li>
+</ul>
 <span class="go">ເຂົ້າສູ່ໜ້າຖານປະກອບການ <span class="arr">→</span></span>
 
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
