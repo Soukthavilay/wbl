@@ -59,34 +59,34 @@
 <span class="sc-tag" style="background: rgba(15,138,95,.18); color: #3dba8a;">Structured programme</span>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="problem" el_class="section problem"][vc_column pix_background_effect=""][vc_custom_heading text="ວິກິດການດ້ານທັກສະ · The Skills Crisis" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="ສິ່ງທ້າທາຍທີ່ສະຖານປະກອບການ ກຳລັງປະເຊີນ" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_row_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-list"]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="problem" el_class="section problem"][vc_column pix_background_effect=""][vc_custom_heading text="ວິກິດການດ້ານທັກສະ · The Skills Crisis" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="ສິ່ງທ້າທາຍທີ່ສະຖານປະກອບການໃນລາວກຳລັງປະເຊີນ" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_row_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-list"]
 <div class="prob-item">
 
-<span class="n mono">01</span>ການຈ້າງງານໂດຍອີງໃສ່ແຮງງານທີ່ມີຢູ່ ບໍ່ແມ່ນທັກສະທີ່ຕ້ອງການ
+<span class="n mono">01</span>ການຈ້າງແຮງງານດິບ ບໍ່ມີທັກສະທີ່ບໍລິສັດ/ສະຖານປະກອບການຕ້ອງການ
 
 </div>
 <div class="prob-item">
 
-<span class="n mono">02</span>ຮອບການປະຖົມນິເທດ ແລະ ການຝຶກອົບຮົມຄືນໃໝ່ ທີ່ຍາວນານ
+<span class="n mono">02</span>ຕ້ອງໄດ້ມີການສະຫນອງການຝຶກອົບຮົມເພີ່ມຕື່ມ -ໃຊ້ເວລາດົນ-ບໍ່ເປັນລະບົບ-ບໍ່ມີການຢັ້ງຢືນວຸດທິ
 
 </div>
 <div class="prob-item">
 
-<span class="n mono">03</span>ອັດຕາການລາອອກ ໃນໄລຍະເລີ່ມຕົ້ນ ທີ່ສູງ
+<span class="n mono">03</span>ອັດຕາການລາອອກໃນໄລຍະເລີ່ມຕົ້ນທີ່ສູງ
 
 </div>
 <div class="prob-item">
 
-<span class="n mono">04</span>ຜູ້ຄຸມງານ ມີພາລະໜັກເກີນໄປ ກັບການຝຶກອົບຮົມແບບບໍ່ເປັນທາງການ
+<span class="n mono">04</span>ຜູ້ຄຸມງານ ຮັບພາລະຫນັກກັບການຝຶກອົບຮົມທີ່ບໍ່ມີການຈັດວາງເປັນລະບົບ ແລະ ບໍ່ມີການຊ່ວຍເຫຼືອໃນການພັດທະນາຊຸດຝຶກ ແລະ ປະເມີນ
 
 </div>
 <div class="prob-item">
 
-<span class="n mono">05</span>ຜົນຜະລິດຕ່ຳ ຍ້ອນຄວາມບໍ່ສອດຄ່ອງຂອງທັກສະ
+<span class="n mono">05</span>ຜົນຜະລິດຕໍ່າ ເນື່ອງຈາກແຮງງານບໍ່ມີທັກສະທີ່ສອດຄ່ອງ
 
 </div>
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-quote"]
-<blockquote>“ນັ້ນແມ່ນກຳໄລ ທີ່ກຳລັງ<span class="door">ຍ່າງອອກໄປທາງປະຕູ.”</span></blockquote>
+<blockquote>“ນັ້ນໝາຍເຖິງຜົນກຳໄລທີ່ທ່ານຕ້ອງສູນເສຍໄປ<span class="door">ຕ້ອງສູນເສຍໄປ.”</span></blockquote>
 <div class="by">ແຫຼ່ງທີ່ມາ · EuroCham–SDC Skills Gap Assessment 2024</div>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
