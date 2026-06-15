@@ -39,12 +39,12 @@
 <span class="sc-tag" style="background: rgba(255,176,32,.14); color: #ffb020;">On-the-job training</span>
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-book" color="custom" css="" custom_color="#2E63EE" el_class="sc-ico"][vc_column_text el_class="sc"]
 <span class="sc-eyebrow">Theory · ຮຽນທິດສະດີ</span>
-<div class="sc-num"><span data-count="25">0</span><span class="unit">%</span></div>
+<div class="sc-num"><span data-count="10" data-suffix="% - 25%">0% - 25%</span><span class="unit"></span></div>
 <div class="sc-label">ຮຽນທິດສະດີຢູ່ໂຮງຮຽນ</div>
 <p class="sc-desc">ພື້ນຖານຄວາມຮູ້ ແລະ ທິດສະດີທີ່ເຊື່ອມໂຍງກັບໜ້າວຽກຈິງ</p>
 
 <div class="sc-bar-wrap">
-<div class="sc-bar" style="background: #2E63EE;" data-w="25%"></div>
+<div class="sc-bar" style="background: #2E63EE;" data-w="10% - 25%"></div>
 </div>
 <span class="sc-tag" style="background: rgba(46,99,238,.18); color: #7ba7ff;">Classroom theory</span>
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-calendar" color="custom" css="" custom_color="#EDAA3B" el_class="sc-ico"][vc_column_text el_class="sc"]
@@ -202,60 +202,40 @@ Co-Investment Model · ຫຼຸດການລາອອກ · ທັກສະ�
 
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="enterprise" el_class="section ent wbl-ent-head"][vc_column pix_background_effect=""][vc_custom_heading text="Enterprise Portal · ສຳລັບວິສາຫະກິດ" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="Co-Investment Model: ການລົງທຶນຮ່ວມ ທີ່ຄຸ້ມຄ່າ" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="wbl-lead-dark"]
 <p class="lead">ສ່ວນໃຫຍ່ຂອງການລົງທຶນ ແມ່ນເຄື່ອງມື ແລະ ສະຖານທີ່ ທີ່ທ່ານໃຊ້ຢູ່ແລ້ວ — ບໍ່ແມ່ນຄ່າໃຊ້ຈ່າຍໃໝ່.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_class="section ent wbl-ent-body"][vc_column width="1/2" pix_background_effect=""][vc_column_text el_class="cost-card"]
-<div class="cost-total"><span class="cur">USD</span><b class="mono"><span data-count="1920" data-prefix="$">$0</span></b><span style="color: rgba(255,255,255,.7);">ຄ່າໃຊ້ຈ່າຍທັງໝົດ / ນັກຮຽນ</span></div>
-<div class="donut-wrap">
-<div id="donut" class="donut" data-p="48">
-<div class="mid"><b class="mono">~48%</b>ໂຄງການຮັບຜິດຊອບ</div>
-</div>
-<div class="cost-legend">
-<div class="row">
-<div><b>USD 920</b>ໂຄງການ ASTI ຮັບຜິດຊອບ — ການຝຶກນອກສະຖານທີ່, ອອກແບບຫຼັກສູດ &amp; ສື່, ການປະເມີນ &amp; ຮັບຮອງ</div>
-</div>
-<div class="row">
-<div><b>~USD 1,000</b>ການລົງທຶນຂອງທ່ານ — ເງິນອຸດໜູນນັກຮຽນ &amp; ຜູ້ຄຸມງານ ພ້ອມເຄື່ອງມືທີ່ມີຢູ່ແລ້ວ</div>
-</div>
-</div>
-</div>
-<div class="cost-lines">
-<div class="li">ເງິນອຸດໜູນສຳລັບນັກຮຽນ (4 ເດືອນ)<b>$400</b></div>
-<div class="li">ເງິນອຸດໜູນສຳລັບຜູ້ຄຸມງານ (4 ເດືອນ)<b>$400</b></div>
-<div class="li">ເຄື່ອງມື, ອຸປະກອນ &amp; ສະຖານທີ່<span class="free">ເປັນຂອງທ່ານຢູ່ແລ້ວ</span></div>
-</div>
-[/vc_column_text][/vc_column][vc_column width="1/2" pix_background_effect=""][vc_row_inner el_class="ent-ben-grid"][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-handshake-angle" color="custom" background_style="boxed" background_color="custom" size="sm" css="" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
-<h4>ທັກສະຖືກກັບວຽກ 100%</h4>
-ບໍ່ມີຄວາມບໍ່ສອດຄ່ອງຂອງທັກສະ ເມື່ອຈ້າງງານ
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_class="section ent wbl-ent-body"][vc_column width="1/1" pix_background_effect=""][vc_row_inner el_class="ent-ben-grid"][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-handshake-angle" color="custom" background_style="boxed" background_color="custom" size="sm" css="" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
+<h4>ທັກສະຖືກກັບຫນ້າວຽກ</h4>
+ທັກສະສອດຄ່ອງກັບຄວາມຕ້ອງການຜູ້ໃຊ້ແຮງງາານ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-brands fa-studiovinari" color="custom" background_style="boxed" background_color="custom" size="sm" css="" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
-<h4>ຄວາມຮູ້ຢູ່ກັບທ່ານ</h4>
-ຜູ້ຄຸມງານໄດ້ຮັບການຢັ້ງຢືນເປັນຄູຝຶກປະຈຳ
+<h4>ພະນັກງານ ຍັງຢູ່ກັບທ່ານ</h4>
+ພະນັກງານ ຂອງທ່ານ ໄດ້ຮັບການຢັ້ງຢືນເປັນຄູຝຶກປະຈຳຢູ່ສະຖານປະກອບການ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-brands fa-sourcetree" color="custom" background_style="boxed" background_color="custom" size="sm" css="" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
 <h4>ຄວາມສາມາດຖືກຮັບຮອງ</h4>
 ປະເມີນຮ່ວມກັນ ເປັນຫຼັກຖານທີ່ເຊື່ອຖືໄດ້
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fas fa-chart-line" color="custom" background_style="boxed" background_color="custom" size="sm" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
-<h4>ຫຼຸດການລາອອກ</h4>
-ນັກຮຽນຝັງຕົວໃນວຽກທີ່ມີຜົນຜະລິດ ນັບແຕ່ອາທິດທຳອິດ
+<h4>ຫລຸດການລາອອກ</h4>
+ຜູ້ຮຽນມີຄວາມເຊື່ອຫມັ້ນສະຖານປະກອບການ ນັບແຕ່ເລີ່ມຕົ້ນ
 
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text]
 <div class="wbl-cta-row"><a class="btn btn-amber btn-lg" href="#apply">ສະແດງຄວາມສົນໃຈ (EOI) →</a> <a class="btn btn-ghost btn-lg" href="#cycle">ເບິ່ງວົງຈອນ WBL</a></div>
 [/vc_column_text][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="proof" el_class="section proof"][vc_column pix_background_effect=""][vc_custom_heading text="ໂມເດລທີ່ພິສູດແລ້ວ · Proven Model" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="ດັດຊະນີຄວາມສາມາດໃນການແຂ່ງຂັນ ດ້ານພອນສະຫວັນໂລກ (GTCI) 2025" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="wbl-lead-dark"]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="proof" el_class="section proof"][vc_column pix_background_effect=""][vc_custom_heading text="ໂມເດລທີ່ພິສູດແລ້ວ · Proven Model" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="ດັດຊະນີຄວາມສາມາດໃນການແຂ່ງຂັນດ້ານຊັບພະຍາກອນມະນຸດລະດັບໂລກ (GTCI) 2025" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="wbl-lead-dark"]
 <p class="lead">ປະເທດທີ່ນຳໃຊ້ການຮຽນຮູ້ໃນສະຖານປະກອບການ ຄອງອັນດັບສູງສຸດຂອງໂລກ. WBL ຄືເສັ້ນທາງທີ່ຈະຍົກລະດັບແຮງງານລາວ.</p>
 [/vc_column_text][vc_column_text]
 <div id="rank" class="rank">
 <div class="rank-row"><span class="pos mono">01</span><span class="country">Singapore <small>ສິງກະໂປ</small></span><span class="score mono">73.29</span><i data-w="100%"></i></div>
 <div class="rank-row"><span class="pos mono">02</span><span class="country">Switzerland <small>ສະວິດເຊີແລນ · ຕົ້ນກຳເນີດ WBL</small></span><span class="score mono">73.14</span><i data-w="99.8%"></i></div>
-<div class="rank-row me"><span class="pos mono">115</span><span class="country">Lao PDR <small>ສປປ ລາວ · ໂອກາດໃນການເຕີບໂຕ</small></span><span class="score mono">33.04</span><i data-w="45%"></i></div>
+<div class="rank-row me"><span class="pos mono">106</span><span class="country">Lao PDR <small>ສປປ ລາວ · ໂອກາດໃນການເຕີບໂຕ</small></span><span class="score mono">33.04</span><i data-w="45%"></i></div>
 </div>
-<div class="swiss"><span class="pill">SWISS MODEL · ນັບແຕ່ປີ 1981</span><span class="pill">75% ໜ້າວຽກ / 25% ທິດສະດີ</span><span class="pill">6 ເດືອນ ມີໂຄງສ້າງ</span><span class="pill">ຂັບເຄື່ອນໂດຍນາຍຈ້າງ</span></div>
+<div class="swiss"><span class="pill">SWISS MODEL · ນັບແຕ່ປີ 1981</span><span class="pill">75% - 90% ໜ້າວຽກ / 10% - 25% ທິດສະດີ</span><span class="pill">6 ເດືອນ ມີໂຄງສ້າງ</span><span class="pill">ຂັບເຄື່ອນໂດຍສະຖານປະກອບການ</span></div>
 [/vc_column_text][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="apply" el_class="section apply"][vc_column pix_background_effect=""][vc_column_text el_class="wbl-apply-head"]
 <span class="eyebrow" style="color: #1a4dd8; display: block;">ສະໝັກອອນລາຍ · Apply Online</span>
-<h2 class="h-xl lao-display">ເລີ່ມຕົ້ນກັບ WBL ມື້ນີ້</h2>
+<h2 class="h-xl lao-display" style="margin-top: 10px;">ເລີ່ມຕົ້ນກັບ WBL ມື້ນີ້</h2>
 [/vc_column_text][vc_row_inner el_class="form-shell-wp"][vc_column_inner width="1/3" pix_background_effect=""][vc_column_text el_class="form-aside youth-a"]
 <h3 class="lao-display">ເລີ່ມເສັ້ນທາງອາຊີບຂອງເຈົ້າ</h3>
 ຕື່ມຂໍ້ມູນ 2 ນາທີ ແລ້ວທີມງານ ສຄອຊ ຈະຕິດຕໍ່ກັບເຈົ້າຜ່ານ WhatsApp ເພື່ອນັດສຳພາດ ແລະ ຈັບຄູ່ກັບສະຖານປະກອບການ.
