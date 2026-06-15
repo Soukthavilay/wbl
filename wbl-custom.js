@@ -100,7 +100,7 @@
           c.style.strokeDashoffset = (220 - dash).toString();
         });
         root.querySelectorAll('.sc-bar').forEach(function (b) {
-          b.style.width = b.dataset.w;
+          b.style.width = parseFloat(b.dataset.w || 100) + '%';
         });
       };
       if (hasIO) {
