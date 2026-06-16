@@ -178,7 +178,7 @@
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="enterprise" el_class="section ent wbl-ent-head"][vc_column pix_background_effect=""][vc_custom_heading text="Enterprise Portal · ສຳລັບສະຖານປະກອບການ" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="Co-Investment Model: ການລົງທຶນຮ່ວມ ທີ່ຄຸ້ມຄ່າ" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="wbl-lead-dark"]
 <p class="lead">ສ່ວນໃຫຍ່ຂອງການລົງທຶນ ແມ່ນເຄື່ອງມື ແລະ ສະຖານທີ່ ທີ່ທ່ານໃຊ້ຢູ່ແລ້ວ — ບໍ່ແມ່ນຄ່າໃຊ້ຈ່າຍໃໝ່.</p>
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_class="section ent wbl-ent-body"][vc_column width="1/1" pix_background_effect=""][vc_row_inner el_class="ent-ben-grid"][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-handshake-angle" color="custom" background_style="boxed" background_color="custom" size="sm" css="" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
-<h4>ທັກສະຖືກກັບຫນ້າວຽກ</h4>
+<h4>ທັກສະຖືກກັບໜ້າວຽກ</h4>
 ທັກສະສອດຄ່ອງກັບຄວາມຕ້ອງການຜູ້ໃຊ້ແຮງງາານ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-brands fa-studiovinari" color="custom" background_style="boxed" background_color="custom" size="sm" css="" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
@@ -194,7 +194,7 @@
 ຜູ້ຮຽນມີຄວາມເຊື່ອຫມັ້ນສະຖານປະກອບການ ນັບແຕ່ເລີ່ມຕົ້ນ
 
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text]
-<div class="wbl-cta-row"><a class="btn btn-amber btn-lg" href="#apply">ສະແດງຄວາມສົນໃຈ (EOI) →</a> <a class="btn btn-ghost btn-lg" href="#cycle">ເບິ່ງວົງຈອນ WBL</a></div>
+<div class="wbl-cta-row"><a class="btn btn-amber btn-lg" href="#apply">ສະແດງຄວາມສົນໃຈ (EOI) →</a> <a class="btn btn-ghost btn-lg" href="#cycle">ເບິ່ງຂັ້ນຕອນ WBL</a></div>
 [/vc_column_text][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="proof" el_class="section proof"][vc_column pix_background_effect=""][vc_custom_heading text="ໂມເດລທີ່ພິສູດແລ້ວ · Proven Model" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="ດັດຊະນີຄວາມສາມາດໃນການແຂ່ງຂັນດ້ານຊັບພະຍາກອນມະນຸດລະດັບໂລກ (GTCI) 2025" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="wbl-lead-dark"]
