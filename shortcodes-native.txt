@@ -159,14 +159,14 @@
 ໄລຍະເປັນນັກຮຽນ ແລະ ນະໂຍບາຍອື່ນໆ ຕາມລະບຽບພາຍໃນຂອງ ແຕ່ລະ ບໍລີສັດ (ເຊັ່ນ: ອາຫານ, ທີ່ພັກ, ປະກັນໄພ, ...)
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
-<div class="bnum mono">100%</div>
+<div class="bnum mono">%</div>
 <h4>ທັກສະຖືກກັບວຽກ</h4>
 ເນັ້ນຮຽນຜ່ານການປະຄິບັດຕົວຈິງ - ບໍ່ເນັ້ນທິດສະດີ - ຮຽນແລ້ວສາມາດເຮັດວຽກໄດ້ຈິງ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
 <div class="bnum mono">✓</div>
 <h4>ໃບຮັບຮອງ</h4>
-ໄດ້ໃບຢັ້ງຟືນວຸດທິການສຶກສາແຫ່ງຊາດ ຈາກກະຊວງສຶກສາທິການ ແລະ ກິລາ-ສາມາດໄປຮຽນຕໍ່ໃນລະດັບທີ່ສູງຂື້ນໄດ້ໃນອະນາຄົດ
+ໄດ້ໃບຢັ້ງຢືນວຸດທິການສຶກສາແຫ່ງຊາດ ຈາກກະຊວງສຶກສາທິການ ແລະ ກິລາ-ສາມາດໄປຮຽນຕໍ່ໃນລະດັບທີ່ສູງຂື້ນໄດ້ໃນອະນາຄົດ
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
 <div class="bnum mono">→</div>
