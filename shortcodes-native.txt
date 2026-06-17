@@ -1,4 +1,4 @@
-[vc_row full_width="stretch_row" full_height="yes" content_placement="bottom" pix_particles_check="" pix_overlay_color="custom" pix_overlay_over="true" pix_overlay_custom_color="#0A1F508F" pix_background_effect="" el_id="hero" el_class="wbl-hero-row" css=".vc_custom_1781662260461{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/DSCF2608-copy.jpg?id=557) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}"][vc_column pix_background_effect=""][vc_column_text css="" el_class="wbl-hero-head"]<span class="hero-kicker eyebrow"> ສະພາການຄ້າ ແລະ ອຸດສາຫະກຳແຫ່ງຊາດລາວ · ໂຄງການ ASTI</span>
+[vc_row full_width="stretch_row" full_height="yes" content_placement="bottom" pix_particles_check="" pix_overlay_color="custom" pix_overlay_over="true" pix_overlay_custom_color="#0A1F508F" pix_background_effect="" el_id="hero" el_class="wbl-hero-row" css=".vc_custom_1781679197870{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/DSCF2608-copy-1-1.jpg?id=563) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}"][vc_column pix_background_effect=""][vc_column_text css="" el_class="wbl-hero-head"]<span class="hero-kicker eyebrow"> ສະພາການຄ້າ ແລະ ອຸດສາຫະກຳແຫ່ງຊາດລາວ · ໂຄງການ ASTI</span>
 <h1 class="h-xxl lao-display">ປ່ຽນການສ້າງສີມືແຮງງານ ສູ່ການເຕີບໂຕທາງທຸລະກິດ ດ້ວຍການຮຽນວິຊາຊີບຢູ່ສະຖານປະກອບການ <span class="wbl-word">(Work-Based Learning – WBL)</span></h1>
 <p class="hero-sub">ການຮຽນວິຊາຊີບໃນສະຖານປະກອບການ — ສ້າງຄົນຜ່ານການເຮັດວຽກຕົວຈິງ ພ້ອມເຮັດວຽກໄດ້ຕັ້ງແຕ່ມື້ທຳອິດ. ນີ້ຄືກະແຈທີ່ສໍາຄັນໃນການຮັກສາບຸກຄະລາກອນ.</p>
 [/vc_column_text][vc_column_text]
@@ -90,7 +90,7 @@
 <span class="eyebrow" style="color: #1a4dd8;">ເລືອກເສັ້ນທາງຂອງທ່ານ · Choose your path</span>
 <h2 class="h-xl lao-display">WBL ຊ່ວຍທ່ານຄືແນວໃດ?</h2>
 <p class="lead">ທ່ານແມ່ນໃຜ? ເລືອກໜຶ່ງດ້ານລຸ່ມນີ້ ເພື່ອເຂົ້າສູ່ໜ້າສະເພາະ — ມີຂໍ້ມູນ, ສິດທິປະໂຫຍດ ແລະ ແບບຟອມສະໝັກ ທີ່ອອກແບບໄວ້ສຳລັບທ່ານໂດຍສະເພາະ!</p>
-[/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner el_class="pcard-col youth" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#FFB02030" pix_background_effect="" css=".vc_custom_1781662334275{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/DSCF5856-scaled.jpg?id=559) !important;}"][vc_column_text]
+[/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner el_class="pcard-col youth" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#FFB02030" pix_background_effect="" css=".vc_custom_1781679209015{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/DSCF5856-1-1-1-scaled.jpg?id=565) !important;}"][vc_column_text]
 <span class="ptag">ສຳລັບໄວໜຸ່ມ · YOUTH</span>
 <h3 class="lao-display">ຮຽນວິຊາຊີບໃນບໍລິສັດທີ່ເຈົ້າເລືອກ ພ້ອມໂອກາດໄດ້ເຂົ້າເປັນພະນັກງານທັນທີທີ່ຮຽນຈົບ</h3>
 <ul class="pcard-list">
@@ -100,7 +100,7 @@
  	<li>ໄດ້ຮັບໃບປະກາດຊັ້ນຕົ້ນ ລະດັບ 2 ຈາກກະຊວງສຶກສາ</li>
  	<li>ສາມາດສືບຕໍ່ຮຽນຍົກລະດັບໄດ້ຕະຫລອດຊີວິດ</li>
 </ul>
-[/vc_column_text][vc_btn title="ເຂົ້າສູ່ໜ້າໄວໜຸ່ມ" style="custom" custom_background="transparent" custom_text="#ffffff" link="url:%23apply" el_class="go"][/vc_column_inner][vc_column_inner el_class="pcard-col ent" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#0A235047" pix_background_effect="" css=".vc_custom_1781662342955{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/DSCF2643.jpg?id=558) !important;}"][vc_column_text]
+[/vc_column_text][vc_btn title="ເຂົ້າສູ່ໜ້າໄວໜຸ່ມ" style="custom" custom_background="transparent" custom_text="#ffffff" link="url:%23apply" el_class="go"][/vc_column_inner][vc_column_inner el_class="pcard-col ent" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#0A235047" pix_background_effect="" css=".vc_custom_1781679219022{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/DSCF2643-1-1-1.jpg?id=564) !important;}"][vc_column_text]
 <span class="ptag">ສຳລັບສະຖານປະກອບການ · ENTERPRISE</span>
 <h3 class="lao-display">ລົງທຶນຮ່ວມກັນເພື່ອສ້າງຄົນເກັ່ງ — ໄດ້ຜົນປະໂຫຍດຫຼາຍກວ່າ ໂດຍບໍ່ຕ້ອງເພີ່ມງົບປະມານ</h3>
 <ul class="pcard-list">
@@ -235,7 +235,7 @@
 
 </div>
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-quote"]
-<blockquote>“ນັ້ນໝາຍເຖິງຜົນກຳໄລທີ່ທ່ານຕ້ອງສູນເສຍໄປ<span class="door">ຕ້ອງສູນເສຍໄປ.”</span></blockquote>
+<blockquote>“ນັ້ນໝາຍເຖິງຜົນກຳໄລທີ່ທ່ານ<span class="door">ຕ້ອງສູນເສຍໄປ.”</span></blockquote>
 <div class="by">ແຫຼ່ງທີ່ມາ · EuroCham–SDC Skills Gap Assessment 2024</div>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
