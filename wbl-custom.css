@@ -1227,7 +1227,7 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
   display: flex !important;
   flex-wrap: wrap !important;
   align-items: center !important;
-  gap: 10px 18px !important;
+  gap: 10px 3px !important;
 }
 /* Mỗi logo item */
 .site-footer2 .pix-img-element {
@@ -1238,7 +1238,7 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 /* Override từng width khác nhau → dùng height đồng nhất
    44px: tổng chiều ngang ~463px < 535px (cột 2/4 container 1140px) → tất cả 5 logo vừa 1 hàng */
 .site-footer2 .pix-img-element img {
-  height: 46px !important;
+  height: 50px !important;
   width: auto !important;
   max-width: 180px !important;
   object-fit: contain;
