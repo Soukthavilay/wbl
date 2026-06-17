@@ -1,0 +1,272 @@
+// WBL WordPress — English version shortcode
+// Paste toàn bộ nội dung bên dưới vào WPBakery Backend Editor (nút </> Code view)
+// -----------------------------------------------------------------------
+
+[vc_row full_width="stretch_row" full_height="yes" content_placement="bottom" pix_particles_check="" pix_overlay_color="custom" pix_overlay_over="true" pix_overlay_custom_color="#0A1F508F" pix_background_effect="" el_id="hero" el_class="wbl-hero-row" css=".vc_custom_1781664012602{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/DSCF2608-copy-1-1.jpg?id=563) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}"][vc_column pix_background_effect=""][vc_column_text css="" el_class="wbl-hero-head"]<span class="hero-kicker eyebrow"> Lao National Chamber of Commerce and Industry · ASTI Programme</span>
+<h1 class="h-xxl lao-display">Transforming Workforce Development into Business Growth Through Workplace Vocational Learning <span class="wbl-word">(Work-Based Learning – WBL)</span></h1>
+<p class="hero-sub">Workplace vocational learning — developing people through real work, job-ready from day one. This is the key to retaining your workforce.</p>
+[/vc_column_text][vc_column_text]
+<div class="hero-cta"><a class="btn btn-amber btn-lg" href="#youth">I'm a Youth →</a> <a class="btn btn-ghost btn-lg" href="#enterprise">For Enterprises →</a></div>
+<div class="hero-foot">
+<div class="stat"><b class="mono"><span data-count="75" data-suffix="% - 90%">0% - 90%</span></b>Learning at the workplace</div>
+<div class="stat"><b class="mono"><span data-count="6">0</span> Months</b>Training duration</div>
+<div class="stat"><b class="mono"><span data-count="7">0</span></b>Open occupational fields</div>
+<div class="stat"><b class="mono">1981</b>Swiss Model origin</div>
+</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" css=".vc_custom_1781076592450{background-color: #15171C !important;}"][vc_column pix_background_effect=""][vc_column_text css=""][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" gap="10" pix_particles_check="" pix_background_effect="" el_class="strip wbl-strip-row"][vc_column content_align="text-center" pix_background_effect=""][vc_column_text]
+<div class="track">Basic Vehicle Maintenance Technician &amp; Air Conditioning Installation &amp; Repair Technician &amp; Building Electrical Installation Technician &amp; Warehouse Inventory Management Staff &amp; Machinery &amp; Equipment Technician &amp; Electric &amp; Hybrid Vehicle Repair Technician &amp; Customer Service Staff</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" css=".vc_custom_1781076627318{background-color: #15171C !important;}"][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="about" el_class="section wbl-about"][vc_column pix_background_effect=""][vc_custom_heading text="What is Work-Based Learning?" font_container="tag:div|text_align:left|color:%231A4DD8" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_column_text el_class="sec-head"]
+<h2 class="h-xl lao-display">Not just an <span style="color: #6a7180;">'internship'</span> programme —
+but a workforce development strategy</h2>
+<p class="lead">WBL is learning through real practice, <b>co-designed</b> by enterprises and vocational education institutions to build job-ready skills. Since 1981, this model has helped Switzerland become one of the world's most innovative nations.</p>
+[/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner pix_background_effect=""][vc_column_text el_class="panel yes"]
+<h3 class="h-m"><span class="tag">WBL is</span></h3>
+<ul>
+ 	<li><span class="ic">✓</span>Vocational learning through real participation in production processes and services within the enterprise</li>
+ 	<li><span class="ic">✓</span>Based on a vocational curriculum co-designed by enterprises and vocational education institutions</li>
+ 	<li><span class="ic">✓</span>Coached by experienced instructors from both the enterprise and vocational school</li>
+ 	<li><span class="ic">✓</span>Builds job-ready skills from the very first day of training</li>
+ 	<li><span class="ic">✓</span>Upon completion, the company where you trained will consider hiring you immediately.</li>
+ 	<li><span class="ic">✓</span>A strategy for developing quality talent aligned with employer needs and the real labour market</li>
+</ul>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="stat-trio" el_id="statTrio"][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-house-chimney-window" color="custom" css="" custom_color="#A6192E" el_class="sc-ico"][vc_column_text el_class="sc"]
+<span class="sc-eyebrow">Work-Based · On-site Learning</span>
+<div class="sc-num"><span data-count="75" data-suffix="%–90%">0%–90%</span></div>
+<div class="sc-label">Learning at the learner's chosen enterprise</div>
+<p class="sc-desc">Real tasks, real equipment, directly relevant to your operations</p>
+
+<div class="sc-bar-wrap">
+<div class="sc-bar" style="background: #FFB020;" data-w="75% - 90%"></div>
+</div>
+<span class="sc-tag" style="background: rgba(255,176,32,.14); color: #ffb020;">On-the-job training</span>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-book" color="custom" css="" custom_color="#2E63EE" el_class="sc-ico"][vc_column_text el_class="sc"]
+<span class="sc-eyebrow">Theory · Classroom Learning</span>
+<div class="sc-num"><span data-count="10" data-suffix="%–25%">0%–25%</span></div>
+<div class="sc-label">Theory learning at school</div>
+<p class="sc-desc">Foundational knowledge and theory linked to real work</p>
+
+<div class="sc-bar-wrap">
+<div class="sc-bar" style="background: #2E63EE;" data-w="10% - 25%"></div>
+</div>
+<span class="sc-tag" style="background: rgba(46,99,238,.18); color: #7ba7ff;">Classroom theory</span>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-calendar" color="custom" css="" custom_color="#EDAA3B" el_class="sc-ico"][vc_column_text el_class="sc"]
+<span class="sc-eyebrow">Duration · Programme Length</span>
+<div class="sc-num"><span data-count="6">0</span><span class="unit"> Months</span></div>
+<div class="sc-label">WBL Training Duration</div>
+<p class="sc-desc">A structured 6-month programme leading to a Level 2 Basic Education Certificate recognised by the Ministry of Education and Sports</p>
+
+<div class="sc-bar-wrap">
+<div class="sc-bar" style="background: #0F8A5F;" data-w="100%"></div>
+</div>
+<span class="sc-tag" style="background: rgba(15,138,95,.18); color: #3dba8a;">Structured programme</span>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="cycle" el_class="section cycle"][vc_column pix_background_effect=""][vc_custom_heading text="The WBL Cycle" font_container="tag:div|text_align:left|color:%231A4DD8" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="5 Steps from Need to Employment" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_row_inner el_class="wbl-cycle-row" el_id="wbl-cycle"][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">1</div>
+<h4>Identify Needs</h4>
+Employers identify the real skills and job roles they actually need.
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">2</div>
+<h4>Co-Design</h4>
+Jointly develop occupational standards, curriculum, training packages and assessment tools with the vocational school
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">3</div>
+<h4>Match &amp; Train Coaches</h4>
+Match learners to job roles and train supervisors to become certified workplace coaches.
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">4</div>
+<h4>WBL Training</h4>
+6-month training — 75%–90% on-the-job / 10%–25% theory.
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/5" pix_background_effect=""][vc_column_text el_class="cstep"]
+<div class="bub">5</div>
+<h4>Assess &amp; Employ</h4>
+Validate, certify competencies and transition to employment.
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="portals" el_class="section wbl-portals"][vc_column pix_background_effect=""][vc_column_text el_class="portals-intro"]
+<span class="eyebrow" style="color: #1a4dd8;">Choose Your Path · Select your section</span>
+<h2 class="h-xl lao-display">How does WBL help you?</h2>
+<p class="lead">Who are you? Choose one below to enter your dedicated section — with information, benefits and application forms designed specifically for you!</p>
+[/vc_column_text][vc_row_inner el_class="wbl-equal"][vc_column_inner el_class="pcard-col youth" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#FFB02030" pix_background_effect="" css=".vc_custom_1781664025384{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/DSCF5856-1-1-1-scaled.jpg?id=565) !important;}"][vc_column_text]
+<span class="ptag">For Youth · YOUTH</span>
+<h3 class="lao-display">Learn your trade at a company of your choice, with the opportunity to become an employee upon graduation</h3>
+<ul class="pcard-list">
+ 	<li>Currently 7 occupational fields available</li>
+ 	<li>Training contract with your chosen company. Upon completion, opportunity to sign a full employment contract</li>
+ 	<li>Allowance during training from the company, plus other company benefits*</li>
+ 	<li>Receive a Level 2 Basic Certificate from the Ministry of Education</li>
+ 	<li>Can continue lifelong learning to upgrade qualifications</li>
+</ul>
+[/vc_column_text][vc_btn title="Enter Youth Section" style="custom" custom_background="transparent" custom_text="#ffffff" link="url:%23apply" el_class="go"][/vc_column_inner][vc_column_inner el_class="pcard-col ent" width="1/2" pix_overlay_color="custom" pix_overlay_custom_color="#0A235047" pix_background_effect="" css=".vc_custom_1781664033952{background-image: url(https://wbl.lncci.la/wp-content/uploads/2026/06/DSCF2643-1-1-1.jpg?id=564) !important;}"][vc_column_text]
+<span class="ptag">For Enterprises · ENTERPRISE</span>
+<h3 class="lao-display">Co-invest in talent development — gain greater benefits without adding to your budget</h3>
+<ul class="pcard-list">
+ 	<li>Get workers with skills matched to the job</li>
+ 	<li>Reduce turnover — staff build confidence with your organisation from day one</li>
+ 	<li>Cost-effective co-investment — mostly tools and facilities you already have, no new costs</li>
+ 	<li>Supervisors become certified workplace coaches — knowledge and skills stay within the organisation</li>
+ 	<li>Assess and certify competencies — get workers with verified, credible proof of capability</li>
+</ul>
+[/vc_column_text][vc_btn title="Enter Enterprise Section" style="custom" custom_background="transparent" custom_text="#ffffff" link="url:%23apply" el_class="go"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="youth" el_class="section youth"][vc_column pix_background_effect=""][vc_custom_heading text="Youth Portal · For Youth" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="7 Occupational Fields Now Open" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="sec-head"]
+<p class="lead">Choose your field of interest and train in a real enterprise, with an allowance and competency certificate.</p>
+[/vc_column_text][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">01</div>
+<h4>Basic Vehicle Maintenance Technician</h4>
+Vehicle structure, maintenance and basic operations
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">02</div>
+<h4>Air Conditioning Installation &amp; Repair Technician</h4>
+Electrical systems, A/C installation and repair
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">03</div>
+<h4>Building Electrical Installation Technician</h4>
+Electrical repair and installation
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">04</div>
+<h4>Warehouse Inventory Management Staff</h4>
+Warehouse management and inventory control
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">05</div>
+<h4>Machinery &amp; Equipment Technician</h4>
+Machinery lines and repair tools
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">06</div>
+<h4>Electric &amp; Hybrid Vehicle Repair Technician</h4>
+Repair of both electric and conventional vehicles
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
+<div class="fnum mono">07</div>
+<h4>Customer Service Staff</h4>
+Sales, service and customer experience
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card span2"]
+<h4>Not sure which field suits you?</h4>
+Apply first — the LNCCI team will help guide you to the right field.
+
+<a class="btn btn-amber" href="#apply">Consult &amp; Apply →</a>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_custom_heading text="Why WBL" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow wbl-mt-80"][vc_custom_heading text="What You Will Gain" use_theme_fonts="yes" el_class="h-l lao-display"][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<div class="bnum mono">$</div>
+<h4>Allowance</h4>
+During training and other benefits per each company's internal policies (e.g. meals, accommodation, insurance, ...)
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<div class="bnum mono">100%</div>
+<h4>Job-Ready Skills</h4>
+Learning through real practice — not theory-heavy — skills you can actually apply on the job
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<div class="bnum mono">✓</div>
+<h4>Certificate</h4>
+A National Education Qualification Certificate from the Ministry of Education and Sports — can continue studying at higher levels in the future
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<div class="bnum mono">→</div>
+<h4>Employment Opportunity</h4>
+Graduate and get a job immediately with the company where you trained
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="enterprise" el_class="section ent wbl-ent-head"][vc_column pix_background_effect=""][vc_custom_heading text="Enterprise Portal · For Enterprises" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="Co-Investment Model: A Cost-Effective Joint Investment" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="wbl-lead-dark"]
+<p class="lead">Most of the investment is tools and facilities you already use — not new costs.</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_class="section ent wbl-ent-body"][vc_column pix_background_effect=""][vc_row_inner el_class="ent-ben-grid"][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-handshake-angle" color="custom" background_style="boxed" background_color="custom" size="sm" css="" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
+<h4>Skills Matched to the Job</h4>
+Skills aligned with employer requirements
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-brands fa-studiovinari" color="custom" background_style="boxed" background_color="custom" size="sm" css="" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
+<h4>Staff Stay with You</h4>
+Your staff become certified as permanent workplace coaches
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-brands fa-sourcetree" color="custom" background_style="boxed" background_color="custom" size="sm" css="" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
+<h4>Competency Certified</h4>
+Joint assessment as credible, verifiable evidence
+
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_icon icon_fontawesome="fas fa-chart-line" color="custom" background_style="boxed" background_color="custom" size="sm" custom_color="#ffffff" custom_background_color="#0F8A5F" el_class="ebc-ico"][vc_column_text el_class="ebc-text"]
+<h4>Reduce Turnover</h4>
+Learners build trust in the enterprise from the very beginning
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text]
+<div class="wbl-cta-row"><a class="btn btn-amber btn-lg" href="#apply">Express Interest (EOI) →</a> <a class="btn btn-ghost btn-lg" href="#cycle">View WBL Steps</a></div>
+[/vc_column_text][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="proof" el_class="section proof"][vc_column pix_background_effect=""][vc_custom_heading text="Proven Model" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="Global Talent Competitiveness Index (GTCI) 2025" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="wbl-lead-dark"]
+<p class="lead">Countries that adopt workplace-based learning consistently top the global rankings. WBL is the path to elevating the Lao workforce.</p>
+[/vc_column_text][vc_column_text]
+<div id="rank" class="rank">
+<div class="rank-row"><span class="pos mono">01</span><span class="country">Singapore <small>Singapore</small></span><span class="score mono">73.29</span><i data-w="100%"></i></div>
+<div class="rank-row"><span class="pos mono">02</span><span class="country">Switzerland <small>Switzerland · WBL Origin</small></span><span class="score mono">73.14</span><i data-w="99.8%"></i></div>
+<div class="rank-row me"><span class="pos mono">106</span><span class="country">Lao PDR <small>Lao PDR · Growth Opportunity</small></span><span class="score mono">33.04</span><i data-w="45%"></i></div>
+</div>
+<div class="swiss"><span class="pill">SWISS MODEL · Since 1981</span><span class="pill">75%–90% On-the-job / 10%–25% Theory</span><span class="pill">6 Months Structured</span><span class="pill">Enterprise-Driven</span></div>
+[/vc_column_text][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="problem" el_class="section problem"][vc_column pix_background_effect=""][vc_custom_heading text="The Skills Crisis" font_container="tag:div|text_align:left|color:%23FFB020" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="Challenges Enterprises in Laos Are Facing" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_row_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-list"]
+<div class="prob-item">
+
+<span class="n mono">01</span>Hiring raw labour without the skills that companies and enterprises need
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">02</span>Must provide additional training — time-consuming — unstructured — no qualification certification
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">03</span>High turnover rate in the early employment period
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">04</span>Supervisors overburdened with unstructured training and no support in developing training and assessment packages
+
+</div>
+<div class="prob-item">
+
+<span class="n mono">05</span>Low productivity due to workers lacking relevant skills
+
+</div>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="prob-quote"]
+<blockquote>"That means profit you are forced to lose — <span class="door">and keep losing."</span></blockquote>
+<div class="by">Source · EuroCham–SDC Skills Gap Assessment 2024</div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="apply" el_class="section apply"][vc_column pix_background_effect=""][vc_column_text el_class="wbl-apply-head"]
+<span class="eyebrow" style="color: #1a4dd8; display: block;">Apply Online</span>
+<h2 class="h-xl lao-display" style="margin-top: 10px;">Get Started with WBL Today</h2>
+[/vc_column_text][vc_row_inner el_class="form-shell-wp"][vc_column_inner width="1/3" pix_background_effect=""][vc_column_text el_class="form-aside youth-a"]
+<h3 class="lao-display">Start Your Career Path</h3>
+Complete a 2-minute form and the LNCCI team will contact you via WhatsApp to arrange an interview and match you with an enterprise.
+<div class="steps">
+<div class="s"><i>1</i>Fill in personal details</div>
+<div class="s"><i>2</i>Choose occupational field</div>
+<div class="s"><i>3</i>Attach documents</div>
+<div class="s"><i>4</i>Await appointment</div>
+</div>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="2/3" pix_background_effect=""][vc_column_text el_class="form-main"]
+<div class="form-tabs"><button class="active" type="button" data-form="youth">Youth</button><button type="button" data-form="enterprise">Enterprise</button></div>
+<div class="wbl-form-panel" data-form="youth">
+<h3 class="lao-display wbl-form-title">Youth Application Form</h3>
+<p class="wbl-form-note">Click the button below to open the application form (approximately 2 minutes — opens in a new tab). The LNCCI team will contact you via WhatsApp.</p>
+<a class="btn btn-primary btn-lg" href="https://ee-eu.kobotoolbox.org/x/e1fZ0ScA" target="_blank" rel="noopener">Open Youth Application →</a>
+
+</div>
+<div class="wbl-form-panel" style="display: none;" data-form="enterprise">
+<h3 class="lao-display wbl-form-title">Expression of Interest (EOI) Form for Enterprises</h3>
+<p class="wbl-form-note">Click the button below to open the EOI form (opens in a new tab) — no commitment required. Our team will contact you for a consultation.</p>
+<a class="btn btn-primary btn-lg" href="https://ee-eu.kobotoolbox.org/x/Xej2T1aV" target="_blank" rel="noopener">Open EOI Form →</a>
+
+</div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]

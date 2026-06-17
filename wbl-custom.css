@@ -1046,7 +1046,8 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 .pix-header .pix-nav-link:hover .pix-dropdown-title { color: #EDAA3B !important; opacity: 1 !important; }
 
 /* 3. Register button — Amber pill */
-#menu-header-register > li > a.pix-nav-link {
+#menu-header-register > li > a.pix-nav-link,
+#menu-header-register-english > li > a.pix-nav-link {
   background: #EDAA3B !important; color: #13325B !important;
   border-radius: 999px !important; padding: 10px 20px !important;
   font-weight: 700 !important; font-size: 14px !important; line-height: 1 !important;
@@ -1054,35 +1055,41 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
   box-shadow: 0 8px 22px -8px rgba(201,138,27,.55) !important;
   transition: background .2s, transform .2s, box-shadow .2s !important;
 }
-#menu-header-register > li > a.pix-nav-link:hover {
+#menu-header-register > li > a.pix-nav-link:hover,
+#menu-header-register-english > li > a.pix-nav-link:hover {
   background: #f5bc50 !important; color: #13325B !important;
   transform: translateY(-1px) !important; box-shadow: 0 12px 28px -8px rgba(201,138,27,.65) !important;
 }
 /* Hiện + xoay arrow */
-#menu-header-register > li > a .pixfort-dropdown-arrow {
+#menu-header-register > li > a .pixfort-dropdown-arrow,
+#menu-header-register-english > li > a .pixfort-dropdown-arrow {
   display: inline-block !important; width: 14px !important; height: 14px !important;
   flex: 0 0 14px; color: #13325B; transition: transform .25s ease;
 }
-#menu-header-register > li > a[aria-expanded="true"] .pixfort-dropdown-arrow {
+#menu-header-register > li > a[aria-expanded="true"] .pixfort-dropdown-arrow,
+#menu-header-register-english > li > a[aria-expanded="true"] .pixfort-dropdown-arrow {
   transform: rotate(180deg);
 }
 
 /* 4. Dropdown panel */
-#menu-header-register .dropdown-menu {
+#menu-header-register .dropdown-menu,
+#menu-header-register-english .dropdown-menu {
   background-color: #ffffff;
   border: none !important; border-radius: 18px !important; padding: 8px !important;
   box-shadow: 0 20px 60px rgba(0,0,0,.18), 0 2px 12px rgba(0,0,0,.08) !important;
   margin-top: 10px !important; min-width: 320px !important; width: 320px !important;
   overflow: hidden; z-index: 9999 !important;
 }
-#menu-header-register .submenu-box { padding: 0 !important; background: transparent !important; box-shadow: none !important; }
+#menu-header-register .submenu-box, #menu-header-register-english .submenu-box { padding: 0 !important; background: transparent !important; box-shadow: none !important; }
 /* Fix: Pixfort container — reset display block để items xếp dọc */
-#menu-header-register .submenu-box .container {
+#menu-header-register .submenu-box .container,
+#menu-header-register-english .submenu-box .container {
   padding: 0 !important; max-width: none !important; width: auto !important;
   display: block !important;
 }
 /* Header text */
-#menu-header-register .submenu-box::before {
+#menu-header-register .submenu-box::before,
+#menu-header-register-english .submenu-box::before {
   content: "ທ່ານສະໝັກໃນຖານະໃດ?";
   display: block; font-size: 12.5px; color: #6A7180;
   padding: 8px 10px 10px;
@@ -1091,70 +1098,100 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
 
 /* 5. Dropdown items — card style */
 /* Fix: wrapper div d-lg-flex align-self-stretch → reset về block */
-#menu-header-register .pix-menu-type-default {
+#menu-header-register .pix-menu-type-default,
+#menu-header-register-english .pix-menu-type-default {
   display: block !important; width: 100% !important;
   height: auto !important; align-self: auto !important; padding: 0 !important;
 }
-#menu-header-register .dropdown-item {
+#menu-header-register .dropdown-item,
+#menu-header-register-english .dropdown-item {
   display: flex !important; align-items: center !important;
   padding: 12px 14px !important; border-radius: 12px !important;
   margin-bottom: 5px !important; white-space: normal !important;
   gap: 0 !important; width: 100% !important; transition: opacity .15s !important;
 }
-#menu-header-register .nav-item:last-child .dropdown-item { margin-bottom: 0 !important; }
+#menu-header-register .pix-menu-type-default:last-child .dropdown-item,
+#menu-header-register-english .pix-menu-type-default:last-child .dropdown-item { margin-bottom: 0 !important; }
 /* Fix: Bootstrap override .dropdown-item:hover bằng màu xám → giữ màu card */
 #menu-header-register .dropdown-item:hover,
 #menu-header-register .dropdown-item:focus,
-#menu-header-register .dropdown-item:active {
+#menu-header-register .dropdown-item:active,
+#menu-header-register-english .dropdown-item:hover,
+#menu-header-register-english .dropdown-item:focus,
+#menu-header-register-english .dropdown-item:active {
   text-decoration: none !important; color: inherit !important;
 }
-#menu-item-442 .dropdown-item:hover,
-#menu-item-442 .dropdown-item:focus { background: #FBF1DC !important; opacity: .9; }
-#menu-item-444 .dropdown-item:hover,
-#menu-item-444 .dropdown-item:focus { background: #13325B !important; opacity: .9; }
 
 /* Youth card */
-#menu-item-442 .dropdown-item { background: #FBF1DC !important; }
-/* Enterprise card */
-#menu-item-444 .dropdown-item { background: #13325B !important; }
+#menu-header-register .submenu-box .container > #menu-item-442 > .dropdown-item,
+#menu-header-register-english .submenu-box .container > #menu-item-592 > .dropdown-item {
+  background: #FBF1DC !important;
+}
+#menu-header-register .submenu-box .container > #menu-item-442 > .dropdown-item:hover,
+#menu-header-register .submenu-box .container > #menu-item-442 > .dropdown-item:focus,
+#menu-header-register-english .submenu-box .container > #menu-item-592 > .dropdown-item:hover,
+#menu-header-register-english .submenu-box .container > #menu-item-592 > .dropdown-item:focus {
+  background: #FBF1DC !important; opacity: .9;
+}
 
-/* Icon via ::before */
-#menu-header-register .dropdown-item::before {
+/* Enterprise card */
+#menu-header-register .submenu-box .container > #menu-item-444 > .dropdown-item,
+#menu-header-register-english .submenu-box .container > #menu-item-591 > .dropdown-item {
+  background: #13325B !important;
+}
+#menu-header-register .submenu-box .container > #menu-item-444 > .dropdown-item:hover,
+#menu-header-register .submenu-box .container > #menu-item-444 > .dropdown-item:focus,
+#menu-header-register-english .submenu-box .container > #menu-item-591 > .dropdown-item:hover,
+#menu-header-register-english .submenu-box .container > #menu-item-591 > .dropdown-item:focus {
+  background: #13325B !important; opacity: .9;
+}
+#menu-header-register .dropdown-item::before,
+#menu-header-register-english .dropdown-item::before {
   content: ""; width: 42px; height: 42px; flex: 0 0 42px; border-radius: 10px;
   margin-right: 13px; background-size: 22px 22px;
   background-repeat: no-repeat; background-position: center;
 }
-#menu-item-442 .dropdown-item::before {
+#menu-item-442 .dropdown-item::before,
+#menu-item-592 .dropdown-item::before {
   background-color: rgba(201,138,27,.18);
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23C98A1B' stroke-width='1.9'%3E%3Cpath d='M22 10L12 5 2 10l10 5 10-5z'/%3E%3Cpath d='M6 12v5c0 1 2.7 2.5 6 2.5s6-1.5 6-2.5v-5'/%3E%3C/svg%3E");
 }
-#menu-item-444 .dropdown-item::before {
+#menu-item-444 .dropdown-item::before,
+#menu-item-591 .dropdown-item::before {
   background-color: rgba(255,255,255,.14);
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='1.9'%3E%3Cpath d='M3 21h18M5 21V7l7-4 7 4v14'/%3E%3Cpath d='M9 9h0M9 13h0M9 17h0M15 9h0M15 13h0M15 17h0'/%3E%3C/svg%3E");
 }
 
 /* Title */
-#menu-header-register .pix-dropdown-title {
+#menu-header-register .pix-dropdown-title,
+#menu-header-register-english .pix-dropdown-title {
   font-size: 14px !important; font-weight: 700 !important;
   display: block !important; flex: 1 !important; line-height: 1.3 !important;
 }
-#menu-item-442 .pix-dropdown-title { color: #13325B !important; }
-#menu-item-444 .pix-dropdown-title { color: #fff !important; }
+#menu-item-442 .pix-dropdown-title,
+#menu-item-592 .pix-dropdown-title { color: #13325B !important; }
+#menu-item-444 .pix-dropdown-title,
+#menu-item-591 .pix-dropdown-title { color: #fff !important; }
 
 /* Arrow ::after on hover */
-#menu-header-register .dropdown-item::after {
+#menu-header-register .dropdown-item::after,
+#menu-header-register-english .dropdown-item::after {
   content: "" !important; position: static !important; border: none !important;
   width: 17px; height: 17px; flex: 0 0 17px; margin-left: 8px;
   background-size: contain; background-repeat: no-repeat; background-position: center;
   opacity: 0; transform: translateX(-4px); transition: opacity .2s, transform .2s;
 }
-#menu-item-442 .dropdown-item::after {
+#menu-item-442 .dropdown-item::after,
+#menu-item-592 .dropdown-item::after {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2313325B' stroke-width='2.2'%3E%3Cpath d='M5 12h14M13 6l6 6-6 6'/%3E%3C/svg%3E");
 }
-#menu-item-444 .dropdown-item::after {
+#menu-item-444 .dropdown-item::after,
+#menu-item-591 .dropdown-item::after {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2.2'%3E%3Cpath d='M5 12h14M13 6l6 6-6 6'/%3E%3C/svg%3E");
 }
-#menu-header-register .dropdown-item:hover::after { opacity: 1; transform: translateX(0); }
+#menu-header-register .dropdown-item:hover::after, 
+#menu-header-register-english .dropdown-item:hover::after {
+  opacity: 1; transform: translateX(0); }
 
 /* ========================
    CTA Register Dropdown
