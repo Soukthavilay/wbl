@@ -524,7 +524,7 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
     linear-gradient(180deg,rgba(10,35,80,.55) 0%,rgba(10,35,80,.2) 30%,rgba(10,35,80,.55) 62%,rgba(8,24,56,.96) 100%),
     linear-gradient(95deg,rgba(8,24,56,.86) 0%,rgba(8,24,56,.32) 52%,rgba(8,24,56,0) 78%); }
 .wbl-hero-row > div, .wbl-hero-row .wpb_column { position: relative; z-index: 2; }
-.wbl-hero-row .vc_column-inner { padding-top: 160px; padding-bottom: clamp(48px,7vw,96px); background: none !important; }
+.wbl-hero-row .vc_column-inner { padding-top: 160px !important; padding-bottom: clamp(48px,7vw,96px); background: none !important; }
 /* WP admin bar (+32px) — bù thêm khi logged in */
 .admin-bar .wbl-hero-row .vc_column-inner { padding-top: 192px; }
 @media (max-width: 767px) {
@@ -724,7 +724,7 @@ h1,h2,h3{font-weight:700;line-height:1.16;letter-spacing:0}
   border-radius: 999px; margin-bottom: 24px; }
 .pcard-col.youth .ptag { background: var(--amber); color: var(--ink); }
 .pcard-col.ent .ptag { background: #fff; color: var(--blue-800); }
-.pcard-col h3 { font-size: clamp(23px,2.6vw,32px); color: #fff; line-height: 1.35; text-shadow: 0 2px 16px rgba(0,0,0,.5); }
+.pcard-col h3 { font-size: clamp(23px,2.6vw,32px); color: #fff; line-height: 1.35; text-shadow: 0 2px 16px rgba(0,0,0,.5); margin-top: 5px;}
 .pcard-col p { margin-top: 12px; color: rgba(255,255,255,.88); max-width: 34ch; }
 .pcard-col .go { margin-top: 24px; display: inline-flex; align-items: center; gap: 10px; font-weight: 700; text-shadow: 0 1px 10px rgba(0,0,0,.5); }
 .pcard-col .go .arr { width: 38px; height: 38px; border-radius: 50%; display: grid;
