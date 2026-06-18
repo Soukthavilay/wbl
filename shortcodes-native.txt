@@ -6,11 +6,11 @@
 <div class="hero-foot">
 <div class="stat"><b class="mono"><span data-count="75" data-suffix="% - 90%">0% - 90%</span></b>ຮຽນຢູ່ສະຖານປະກອບການ</div>
 <div class="stat"><b class="mono"><span data-count="6">0</span> ເດືອນ</b>ໄລຍະການຝຶກອົບຮົມ</div>
-<div class="stat"><b class="mono"><span data-count="7">0</span></b>ສາຂາອາຊີບເປີດຮັບ</div>
+<div class="stat"><b class="mono"><span data-count="4">0</span></b>ສາຂາອາຊີບເປີດຮັບ</div>
 <div class="stat"><b class="mono">1981</b>Swiss Model ຕົ້ນກຳເນີດ</div>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" css=".vc_custom_1781076592450{background-color: #15171C !important;}"][vc_column pix_background_effect=""][vc_column_text css=""][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" gap="10" pix_particles_check="" pix_background_effect="" el_class="strip wbl-strip-row"][vc_column content_align="text-center" pix_background_effect=""][vc_column_text]
-<div class="track">ຊ່າງບໍາລຸງຮັກສາລົດຂັ້ນພື້ນຖານ &amp; ຊ່າງຕິດຕັ້ງ ແລະ ສ້ອມແປງເຄື່ອງປັບອາກາດ &amp; ຊ່າງຕິດຕັ້ງໄຟຟ້າຢູ່ອາຄານ &amp; ພະນັກງານ ຄຸ້ມຄອງສິນຄ້າໃນສາງ &amp; ຊ່າງເຄື່ອງຈັກ ເຄື່ອງມື &amp; ຊ່າງສ້ອມແປງລົດຍົນໄຟຟ້າ ແລະ ໄຮບຣິດ &amp; ພະນັກງານ ບໍລິການລູກຄ້າ</div>
+<div class="track">ຊ່າງບໍາລຸງຮັກສາລົດຂັ້ນພື້ນຖານ &amp; ຊ່າງຕິດຕັ້ງ ແລະ ສ້ອມແປງເຄື່ອງປັບອາກາດ &amp; ຊ່າງຕິດຕັ້ງໄຟຟ້າຢູ່ອາຄານ &amp; ພະນັກງານ ບໍລິການລູກຄ້າ</div>
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" css=".vc_custom_1781076627318{background-color: #15171C !important;}"][vc_column pix_background_effect=""][vc_column_text]
 
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="about" el_class="section wbl-about"][vc_column pix_background_effect=""][vc_custom_heading text="Work-Based Learning ແມ່ນຫຍັງ?" font_container="tag:div|text_align:left|color:%231A4DD8" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_column_text el_class="sec-head"]
@@ -29,7 +29,7 @@
 </ul>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="stat-trio" el_id="statTrio"][vc_column_inner width="1/3" pix_background_effect=""][vc_icon icon_fontawesome="fa fa-solid fa-house-chimney-window" color="custom" css="" custom_color="#A6192E" el_class="sc-ico"][vc_column_text el_class="sc"]
 <span class="sc-eyebrow">Work-Based · ຮຽນໃນສະຖານທີ່</span>
-<div class="sc-num"><span data-count="75" data-suffix="%–90%">0%–90%</span><span class="unit"></span></div>
+<div class="sc-num"><span data-count="75" data-suffix="%–90%">0%–90%</span></div>
 <div class="sc-label">ຮຽນຢູ່ສະຖານປະກອບການທີ່ຜູ້ຮຽນເລືອກ</div>
 <p class="sc-desc">ໜ້າວຽກຈິງ, ອຸປະກອນຈິງ, ກ່ຽວຂ້ອງກັບການດຳເນີນງານຂອງທ່ານ</p>
 
@@ -94,7 +94,7 @@
 <span class="ptag">ສຳລັບໄວໜຸ່ມ · YOUTH</span>
 <h3 class="lao-display">ຮຽນວິຊາຊີບໃນບໍລິສັດທີ່ເຈົ້າເລືອກ ພ້ອມໂອກາດໄດ້ເຂົ້າເປັນພະນັກງານທັນທີທີ່ຮຽນຈົບ</h3>
 <ul class="pcard-list">
- 	<li>ປະຈຸບັນ ມີ 7 ສາຂາອາຊີບ</li>
+ 	<li>ປະຈຸບັນ ມີ 4 ສາຂາອາຊີບ</li>
  	<li>ສັນຍາຝຶກອົບຮົມກັບບໍລິສັດທີ່ທ່ານເລືອກ. ຮຽນຈົບມີໂອກາດຕໍ່ສັນຍາເຮັດວຽກເລີຍ</li>
  	<li>ມີເງິນອຸດໜູນໃນເວລາຮຽນຈາກບໍລິສັດ ແລະ ນະໂຍບາຍອື່ນໆຂອງບໍລິສັດ*</li>
  	<li>ໄດ້ຮັບໃບປະກາດຊັ້ນຕົ້ນ ລະດັບ 2 ຈາກກະຊວງສຶກສາ</li>
@@ -112,7 +112,7 @@
 </ul>
 [/vc_column_text][vc_btn title="ເຂົ້າສູ່ໜ້າຖານປະກອບການ" style="custom" custom_background="transparent" custom_text="#ffffff" link="url:%23apply" el_class="go"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="youth" el_class="section youth"][vc_column pix_background_effect=""][vc_custom_heading text="Youth Portal · ສຳລັບໄວໜຸ່ມ" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="7 ສາຂາອາຊີບ ທີ່ເປີດຮັບສະໝັກ" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="sec-head"]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="youth" el_class="section youth"][vc_column pix_background_effect=""][vc_custom_heading text="Youth Portal · ສຳລັບໄວໜຸ່ມ" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="4 ສາຂາອາຊີບ ທີ່ເປີດຮັບສະໝັກ" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="sec-head"]
 <p class="lead">ເລືອກສາຂາທີ່ເຈົ້າສົນໃຈ ແລ້ວຝຶກໃນສະຖານປະກອບການຈິງ ພ້ອມຮັບເງິນອຸດໜູນ ແລະ ໃບຮັບຮອງຄວາມສາມາດ.</p>
 [/vc_column_text][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">01</div>
@@ -131,29 +131,14 @@
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">04</div>
-<h4>ພະນັກງານ ຄຸ້ມຄອງສິນຄ້າໃນສາງ</h4>
-ການຈັດການສາງ ແລະ ການຄວບຄຸມສິນຄ້າຄົງຄັງ
-
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
-<div class="fnum mono">05</div>
-<h4>ຊ່າງເຄື່ອງຈັກ ເຄື່ອງມື</h4>
-ສາຍເຄື່ອງຈັກ ແລະ ເຄື່ອງມືໃນການສ້ອມແປງ
-
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
-<div class="fnum mono">06</div>
-<h4>ຊ່າງສ້ອມແປງລົດຍົນໄຟຟ້າ ແລະ ໄຮບຣິດ</h4>
-ສ້ອມແປງລົດຍົນທັງໄຟຟ້າ ແລະ ນ້ຳມັນ
-
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
-<div class="fnum mono">07</div>
 <h4>ພະນັກງານ ບໍລິການລູກຄ້າ</h4>
 ການຂາຍ, ການບໍລິການ ແລະ ປະສົບການລູກຄ້າ
 
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card span2"]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text][/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="field-card"]
 <h4>ບໍ່ແນ່ໃຈວ່າສາຂາໃດເໝາະກັບເຈົ້າ?</h4>
 ສະໝັກໄວ້ກ່ອນ — ທີມງານ ສຄອຊ ຈະຊ່ວຍແນະນຳສາຂາທີ່ເໝາະສົມ.
 
-<a class="btn btn-amber" href="#apply">ປຶກສາ &amp; ສະໝັກ →</a>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_custom_heading text="ເປັນຫຍັງຕ້ອງ WBL" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow wbl-mt-80"][vc_custom_heading text="ສິ່ງທີ່ເຈົ້າຈະໄດ້ຮັບ" use_theme_fonts="yes" el_class="h-l lao-display"][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<a class="btn btn-amber" href="#apply">ປຶກສາ &amp; ສະໝັກ →</a>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text][/vc_column_text][/vc_column_inner][/vc_row_inner][vc_custom_heading text="ເປັນຫຍັງຕ້ອງ WBL" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow wbl-mt-80"][vc_custom_heading text="ສິ່ງທີ່ເຈົ້າຈະໄດ້ຮັບ" use_theme_fonts="yes" el_class="h-l lao-display"][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
 <div class="bnum mono">$</div>
 <h4>ເງິນອຸດໜູນ</h4>
 ໄລຍະເປັນນັກຮຽນ ແລະ ນະໂຍບາຍອື່ນໆ ຕາມລະບຽບພາຍໃນຂອງ ແຕ່ລະ ບໍລີສັດ (ເຊັ່ນ: ອາຫານ, ທີ່ພັກ, ປະກັນໄພ, ...)

@@ -10,11 +10,11 @@
 <div class="hero-foot">
 <div class="stat"><b class="mono"><span data-count="75" data-suffix="% - 90%">0% - 90%</span></b>Learning at the workplace</div>
 <div class="stat"><b class="mono"><span data-count="6">0</span> Months</b>Training duration</div>
-<div class="stat"><b class="mono"><span data-count="7">0</span></b>Open occupational fields</div>
+<div class="stat"><b class="mono"><span data-count="4">0</span></b>Open occupational fields</div>
 <div class="stat"><b class="mono">1981</b>Swiss Model origin</div>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" css=".vc_custom_1781076592450{background-color: #15171C !important;}"][vc_column pix_background_effect=""][vc_column_text css=""][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" gap="10" pix_particles_check="" pix_background_effect="" el_class="strip wbl-strip-row"][vc_column content_align="text-center" pix_background_effect=""][vc_column_text]
-<div class="track">Basic Vehicle Maintenance Technician &amp; Air Conditioning Installation &amp; Repair Technician &amp; Building Electrical Installation Technician &amp; Warehouse Inventory Management Staff &amp; Machinery &amp; Equipment Technician &amp; Electric &amp; Hybrid Vehicle Repair Technician &amp; Customer Service Staff</div>
+<div class="track">Basic Vehicle Maintenance Technician &amp; Air Conditioning Installation &amp; Repair Technician &amp; Building Electrical Installation Technician &amp; Customer Service Staff</div>
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" css=".vc_custom_1781076627318{background-color: #15171C !important;}"][vc_column pix_background_effect=""][vc_column_text]
 
 [/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="about" el_class="section wbl-about"][vc_column pix_background_effect=""][vc_custom_heading text="What is Work-Based Learning?" font_container="tag:div|text_align:left|color:%231A4DD8" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_column_text el_class="sec-head"]
@@ -98,7 +98,7 @@ Validate, certify competencies and transition to employment.
 <span class="ptag">For Youth · YOUTH</span>
 <h3 class="lao-display">Learn your trade at a company of your choice, with the opportunity to become an employee upon graduation</h3>
 <ul class="pcard-list">
- 	<li>Currently 7 occupational fields available</li>
+ 	<li>Currently 4 occupational fields available</li>
  	<li>Training contract with your chosen company. Upon completion, opportunity to sign a full employment contract</li>
  	<li>Allowance during training from the company, plus other company benefits*</li>
  	<li>Receive a Level 2 Basic Certificate from the Ministry of Education</li>
@@ -116,7 +116,7 @@ Validate, certify competencies and transition to employment.
 </ul>
 [/vc_column_text][vc_btn title="Enter Enterprise Section" style="custom" custom_background="transparent" custom_text="#ffffff" link="url:%23apply" el_class="go"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row pix_particles_check="" pix_background_effect=""][vc_column pix_background_effect=""][vc_column_text]
 
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="youth" el_class="section youth"][vc_column pix_background_effect=""][vc_custom_heading text="Youth Portal · For Youth" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="7 Occupational Fields Now Open" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="sec-head"]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" pix_particles_check="" pix_background_effect="" el_id="youth" el_class="section youth"][vc_column pix_background_effect=""][vc_custom_heading text="Youth Portal · For Youth" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow"][vc_custom_heading text="4 Occupational Fields Now Open" use_theme_fonts="yes" el_class="h-xl lao-display"][vc_column_text el_class="sec-head"]
 <p class="lead">Choose your field of interest and train in a real enterprise, with an allowance and competency certificate.</p>
 [/vc_column_text][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">01</div>
@@ -135,35 +135,20 @@ Electrical repair and installation
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
 <div class="fnum mono">04</div>
-<h4>Warehouse Inventory Management Staff</h4>
-Warehouse management and inventory control
-
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="wbl-equal wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
-<div class="fnum mono">05</div>
-<h4>Machinery &amp; Equipment Technician</h4>
-Machinery lines and repair tools
-
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
-<div class="fnum mono">06</div>
-<h4>Electric &amp; Hybrid Vehicle Repair Technician</h4>
-Repair of both electric and conventional vehicles
-
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card"]
-<div class="fnum mono">07</div>
 <h4>Customer Service Staff</h4>
 Sales, service and customer experience
 
-[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="field-card span2"]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="wbl-cards"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text][/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" pix_background_effect=""][vc_column_text el_class="field-card"]
 <h4>Not sure which field suits you?</h4>
 Apply first — the LNCCI team will help guide you to the right field.
 
-<a class="btn btn-amber" href="#apply">Consult &amp; Apply →</a>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_custom_heading text="Why WBL" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow wbl-mt-80"][vc_custom_heading text="What You Will Gain" use_theme_fonts="yes" el_class="h-l lao-display"][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
+<a class="btn btn-amber" href="#apply">Consult &amp; Apply →</a>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text][/vc_column_text][/vc_column_inner][/vc_row_inner][vc_custom_heading text="Why WBL" font_container="tag:div|text_align:left|color:%23E8920A" use_theme_fonts="yes" el_class="eyebrow wbl-eyebrow wbl-mt-80"][vc_custom_heading text="What You Will Gain" use_theme_fonts="yes" el_class="h-l lao-display"][vc_row_inner el_class="wbl-equal"][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
 <div class="bnum mono">$</div>
 <h4>Allowance</h4>
 During training and other benefits per each company's internal policies (e.g. meals, accommodation, insurance, ...)
 
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" pix_background_effect=""][vc_column_text el_class="byc"]
-<div class="bnum mono">100%</div>
+<div class="bnum mono">%</div>
 <h4>Job-Ready Skills</h4>
 Learning through real practice — not theory-heavy — skills you can actually apply on the job
 
